@@ -1,0 +1,268 @@
+Title: : College of Technology ::.
+
+URL Source: http://www.gbpuat-tech.ac.in/informationTech.php?id=1
+
+Markdown Content:
+**PROGRAM OUTCOMES (PO's)**
+
+A graduate of the Information Technology Program will demonstrate:-
+
+**PO-I :** **Engineering knowledge**: Apply the knowledge of mathematics, science, engineering fundamentals, practical industrial knowledge and engineering specialization to the solution of practical and industry oriented engineering problems.
+
+**PO-II:** **Problem analysis**: Identify, formulate and analyze engineering problems reaching substantiated conclusions using first principles of mathematics, natural sciences, engineering and technology.
+
+**PO-III:** **Design/development of solutions**: Design solutions of engineering problems and development of system components or processes that meet the specified needs with appropriate consideration for the public health and safety, cultural, societal, and environmental considerations.
+
+**PO-IV:** **Modern tool usage:** Create, select, and apply appropriate techniques, resources, modern engineering and IT tools to complex engineering activities with an understanding of the limitations.
+
+**PO-V:** **The engineer and society:** Apply reasoning informed by the contextual knowledge to assess societal, health, safety, legal and cultural issues and the consequent responsibilities relevant to the professional engineering practice.
+
+**PO-VI:** **Environment and sustainability:** Understand the impact of the professional engineering solutions in societal and environmental contexts, and demonstrate the need for development of sustainable solution.
+
+**PO-VII:** **Ethics**: Apply ethical principles and commit to professional ethics and responsibilities and norms of the engineering practice
+
+**PO-VIII:** **Team work and Communication**: Function effectively as a member or leader in diverse teams, and in multidisciplinary roles. Communicate effectively on engineering activities with the engineering community, such as, being able to comprehend and write effective reports and design documentation, make effective presentations.
+
+**PO-IX:** **Project management**: Demonstrate knowledge and understanding of the engineering and management principles and apply these to one’s own work.
+
+**PO-X:** **Continuous learning**: Recognize the need for, have the preparation and ability to demonstrate continuous learning in the context of technological change.
+
+**PROGRAM SPECIFIC OUTCOMES (PSO's)**
+
+A graduate of the Information Technology Program will demonstrate:-
+
+**PSO I :** **Professional Skills**: The ability to understand, analyze and develop computer programs in the areas related to algorithms, system software, multimedia, web design, big data analytics, and networking for efficient design of computer-based systems of varying complexity.
+
+**PSO II :** **Problem-Solving Skills**: The ability to apply standard practices and strategies in software project development using open-ended programming environments to deliver a quality product for business success.
+
+**PSO III :** **Successful Career and Entrepreneurship**: The ability to employ modern computer languages, environments, and platforms in creating innovative career paths to be an entrepreneur, and a zest for higher studies.
+
+**PROGRAM EDUCATIONAL OBJECTIVES (PEO's)**
+
+A graduate of the Information Technology Program should:
+
+****Program Educational Objective - I** :** Students will establish themselves as effective professionals by solving real problems through the use of computer science knowledge and with attention to team work, effective communication, critical thinking and problem solving skills.
+
+****Program Educational Objective - II** :** Students will develop professional skills that prepare them for immediate employment and for life-long learning in advanced areas of computer science and related fields.
+
+****Program Educational Objective - III** :** Students will demonstrate their ability to adapt to a rapidly changing environment by having learned and applied new skills and new technologies.
+
+****Program Educational Objective - IV** :** Students will be provided with an educational foundation that prepares them for excellence, leadership roles along diverse career paths with encouragement to professional ethics and active participation needed for a successful career.
+
+Title: : College of Technology ::.
+
+URL Source: http://www.gbpuat-tech.ac.in/informationTech.php?id=2
+
+Markdown Content:
+![Image 1](http://www.gbpuat-tech.ac.in/online/images/10.11.2020_1604990235767.jpg)
+
+   **[Dr. Rajeev Singh](http://www.gbpuat-tech.ac.in/complete_profile.php?id=63)**  
+**Web Address** : [Click Here](http://www.gbpuat-tech.ac.in/informationTech.php?id=2#)  
+**Email-id**: rajeevpec@gmail.com  
+**Qualification**: Ph.D.  
+**Designation**: In-charge and Head(HOD) of Information Technology(IT) Department  
+**Research Interests**: Information System, Computer Networks, Network Security, DBMS
+
+![Image 2](http://www.gbpuat-tech.ac.in/online/images/10.12.2024_1733832331102.png)
+
+**[Rajesh Singh](http://www.gbpuat-tech.ac.in/complete_profile.php?id=61)**  
+**Web Address** : [Click Here](http://www.gbpuat-tech.ac.in/informationTech.php?id=2#)  
+**Email-id**: rs01234@gmail.com  
+**Qualification**: M.Tech  
+**Designation**:Assistant Professor  
+**Research Interests**: Database Management System
+
+![Image 3](http://www.gbpuat-tech.ac.in/online/images/17.11.2020_1605611053728.jpg)
+
+**[Dr Ashok Kumar](http://www.gbpuat-tech.ac.in/complete_profile.php?id=55)**  
+**Web Address** : [Click Here](http://www.gbpuat-tech.ac.in/informationTech.php?id=2#)  
+**Email-id**: ashokkumar.it@gbpuat-tech.ac.in  
+**Qualification**: B.Tech(C&SE),M.Tech(IT), Ph.D(CS&E), UGC-NET and ASRB-NET Qualified  
+**Designation**:Assistant Professor  
+**Research Interests**: Machine Learning, Software Engineering, Software Project Management, eCommerce, Management Information System ,Computer Networks
+
+![Image 4](http://www.gbpuat-tech.ac.in/online/images/28.11.2020_160655974062.jpg)
+
+**[Dr. Binay Kumar Pandey](http://www.gbpuat-tech.ac.in/complete_profile.php?id=76)**    
+**Web Address** : [Click Here](http://www.gbpuat-tech.ac.in/informationTech.php?id=2#)  
+**Email-id**: binaypandey.it@gbpuat-tech.ac.in  
+**Qualification**: Ph.D.  
+**Designation**:Assistant Professor  
+**Research Interests**: INFORMATION TECHNOLOGY
+
+![Image 5](http://www.gbpuat-tech.ac.in/online/images/09.01.2021_1610168147546.jpg)
+
+**[Sanjay Joshi](http://www.gbpuat-tech.ac.in/complete_profile.php?id=95)**  
+**Web Address** : [Click Here](http://www.gbpuat-tech.ac.in/informationTech.php?id=2#)  
+**Email-id**: sanjayjoshi.it@gbpuat-tech.ac.in  
+**Qualification**: M.Tech  
+**Designation**:Assistant Professor  
+**Research Interests**: Electronics
+
+![Image 6](http://www.gbpuat-tech.ac.in/online/images/09.12.2020_1607536281520.jpg)
+
+**[Dr. Shri Prakash Dwivedi](http://www.gbpuat-tech.ac.in/complete_profile.php?id=51)**  
+**Web Address** : [Click Here](http://www.gbpuat-tech.ac.in/informationTech.php?id=2#)  
+**Email-id**: shriprakashdwivedi@gbpuat-tech.ac.in  
+**Qualification**: M.E. (IISc), Ph.D. (IIT BHU)  
+**Designation**:Assistant Professor  
+**Research Interests**: Algorithms, Graph Matching and Pattern Recognition
+
+![Image 7](http://www.gbpuat-tech.ac.in/online/images/04.01.2021_1609741069514.jpg)
+
+**[Dr. Ratnesh Srivastava (on Eol)](http://www.gbpuat-tech.ac.in/complete_profile.php?id=49)**  
+**Web Address** : [Click Here](http://www.gbpuat-tech.ac.in/informationTech.php?id=2#)  
+**Email-id**: ratnesh.mnnit@gmail.com  
+**Qualification**: BTech,MTech,PhD in IT(IIIT ALLAHBAD)  
+**Designation**:Assistant Professor  
+**Research Interests**: Machine Learning, Data Mining,Web Technologies
+
+![Image 8](http://www.gbpuat-tech.ac.in/online/images/08.09.2020_1599559766485.jpg)
+
+**[Dr. Govind Verma](http://www.gbpuat-tech.ac.in/complete_profile.php?id=27)**  
+**Web Address** : [Click Here](http://www.gbpuat-tech.ac.in/informationTech.php?id=2#)  
+**Email-id**: govindverma24@gmail.com  
+**Qualification**: Ph.D.  
+**Designation**:Assistant Professor  
+**Research Interests**: Computer Science
+
+![Image 9](http://www.gbpuat-tech.ac.in/online/images/06.01.2021_160992953034.jpg)
+
+**[Dr. Subodh Prasad](http://www.gbpuat-tech.ac.in/complete_profile.php?id=38)**  
+**Web Address** : [Click Here](http://www.gbpuat-tech.ac.in/informationTech.php?id=2#)  
+**Email-id**: subodhprasadgbpuat@gmail.com  
+**Qualification**: BTech, MTech, Ph.D.  
+**Designation**:Assistant Professor  
+**Research Interests**: Distributed Computing
+
+![Image 10](http://www.gbpuat-tech.ac.in/online/images/13.02.2021_1613200285987.png)
+
+**[Shikha Goswami](http://www.gbpuat-tech.ac.in/complete_profile.php?id=45)**  
+**Web Address** : [Click Here](http://www.gbpuat-tech.ac.in/informationTech.php?id=2#)  
+**Email-id**: goswami.shikha31@gmail.com  
+**Qualification**: Ph.D Pursuing, M. Tech(CSE), M.B.A.(H.R.),PGDIM,DIM,PGDIS  
+**Designation**:Assistant Professor  
+**Research Interests**: Computer Science and Engg.
+Title: : College of Technology ::.
+
+URL Source: http://www.gbpuat-tech.ac.in/informationTech.php?id=4
+
+Welcome to Information Technology Department
+--------------------------------------------
+    
+    [UG Students](http://www.gbpuat-tech.ac.in/informationTech.php?id=3) [PG Students](http://www.gbpuat-tech.ac.in/informationTech.php?id=5) [Ph.D. Students](http://www.gbpuat-tech.ac.in/informationTech.php?id=13)
+    
+*   Trainings
+    
+    [Trainings/FDP/Seminar/Conference Attended by Faculty](http://www.gbpuat-tech.ac.in/informationTech.php?id=12) [Organised by Department](http://www.gbpuat-tech.ac.in/informationTech.php?id=17)
+    
+*   Courses
+    
+    [Semester 1](http://www.gbpuat-tech.ac.in/informationTech.php?id=4#) [Semester 2](http://www.gbpuat-tech.ac.in/informationTech.php?id=16)
+    
+*   Events/Activities
+    
+    [Department Activities](http://www.gbpuat-tech.ac.in/informationTech.php?id=14) [Student Activities](http://www.gbpuat-tech.ac.in/informationTech.php?id=15)
+    
+*   [Time Table](https://sites.google.com/view/collegetimetabletech/home)
+*   [Photo Gallery](http://www.gbpuat-tech.ac.in/informationTech.php?id=11)
+
+Department Laboratory Details
+-----------------------------
+
+| S.N. | Lab Name | Lab Incharge | Image Link |
+| --- | --- | --- | --- |
+| 1. | Apple Lab (iMac Based) | Er. Subodh Prasad, Assistant Professor | [![Image 9: Not Available](http://www.gbpuat-tech.ac.in/img/IT_data/Apple_Lab.JPG)](http://www.gbpuat-tech.ac.in/img/IT_data/Apple_Lab.JPG) |
+| 2. | Open Source Lab (Linux Based) | Er. Govind Verma, Assistant Professor | [![Image 10: Not Available](http://www.gbpuat-tech.ac.in/img/IT_data/Open_Source_Lab.JPG)](http://www.gbpuat-tech.ac.in/img/IT_data/Open_Source_Lab.JPG) |
+| 3. | Computer Network & Information Technology Lab(Windows OS) | Dr. H. L. Mandoria, Professor | [![Image 11: Not Available](http://www.gbpuat-tech.ac.in/img/IT_data/Computer_Network_Information_Security_Lab.JPG)](http://www.gbpuat-tech.ac.in/img/IT_data/Computer_Network_Information_Security_Lab.JPG) |
+| 4. | Computer Graphics & Animation Lab | Dr. Shiv Prakash Dwivedi, Assistant Professor | [![Image 12: Not Available](http://www.gbpuat-tech.ac.in/img/IT_data/Computer_Graphics_Animation_Lab.JPG)](http://www.gbpuat-tech.ac.in/img/IT_data/Computer_Graphics_Animation_Lab.JPG) |
+| 5. | Web Technology Lab (Windows OS) | Dr. Ratnesh Srivastava, Assistant Professor | [![Image 13: Not Available](http://www.gbpuat-tech.ac.in/img/IT_data/Web_Technology_Lab.JPG)](http://www.gbpuat-tech.ac.in/img/IT_data/Web_Technology_Lab.JPG) |
+| 6. | Wireless Communication & Mobile Computing Lab | Er. Shikha Goswami, Assistant Professor | [![Image 14: Not Available](http://www.gbpuat-tech.ac.in/img/IT_data/Wireless%20Communication%20&%20Mobile%20Computing.jpg)](http://www.gbpuat-tech.ac.in/img/IT_data/WirelessCommunication&MobileComputing.jpg) |
+| 7. | P.G. Laboratory (Windows OS) | Er. Rajesh Singh, Assistant Professor | [![Image 15: Not Available](http://www.gbpuat-tech.ac.in/img/IT_data/PG_Lab.JPG)](http://www.gbpuat-tech.ac.in/img/IT_data/PG_Lab.JPG) |
+
+  
+
+###### List of Equipments in IT Department
+
+| S.No. | Name of Equipment | Quantity | Lab |
+| --- | --- | --- | --- |
+|  | HP Computer 8200 | 20 Nos. | P.G. Lab I |
+|  | Server (HPE Server ML 350, Gen 10) | 01 No. | Computer Network and Information Security |
+|  | Digital Forensic Work Station (FRED DX) | 01 No. | Computer Network and Information Security |
+|  | Computer (DELL), i5 | 09 Nos. | Computer Network and Information Security |
+|  | Desktop Apple iMac | 25 Nos | Open Source Lab |
+|  | Computer (HP Intel Core i5) | 10 Nos | Open Source Lab |
+|  | Computer (HP/8300) | 07 Nos | Open Source Lab |
+|  | Computer (HP/8300) | 35 Nos. | Computer Graphics & Multimedia Lab |
+|  | Trainer Kit  
+(A) MoHile Trainer Kit  
+(B) GPS Development System  
+(C) Embedded GSM Development  
+(D) Embedded Bluetooth Development  
+(E) RFID Application Systems  
+(F) CDMA Trainer Kit |   
+02  
+02  
+02  
+02  
+02  
+01 | Computer Graphics & Multimedia Lab |
+
+  
+  
+
+### Portals
+
+*   [Pantnagar Technology Alumni Association](http://ptaa-gbpuat.com/)
+*   [AMS Portal](https://gbpuat.auams.in/)
+*   [Web mail](https://mail.gbpuat.ac.in/)
+*   [Engineering & Technology Society](http://www.gbpuat-tech.ac.in/ETS/index.html)
+
+### Useful Links
+
+*   [Google Map](https://www.google.com/maps/place/College+of+Technology+Pantnagar/@29.0229292,79.4914002,15z/data=!4m5!3m4!1s0x0:0x4826889a43f07995!8m2!3d29.0229292!4d79.4914002)
+*   [IPMC](https://gbpuat.ac.in/ipmc/index.html)
+*   [Telephone Directory](https://gbpuat.ac.in/contact/index.html)
+*   [Placement Notice](http://www.gbpuat-tech.ac.in/placement.php?id=2)
+
+*   [Alumni](http://www.gbpuat-tech.ac.in/alumni.php)
+*   [GIAN](https://gbpuat.ac.in/gian/index.html)
+*   [Pantnagar Technology Alumni Association](http://www.gbpuat-tech.ac.in/ptaa.php?id=1)
+*   [Leave Management System](http://www.gbpuat-tech.ac.in/LMS/login.php)
+
+### Facilities
+
+*   [CCF](https://gbpuat.ac.in/facility/CCF/index.html)
+*   [Garden Section](https://gbpuat.ac.in/facility/garden/index.html)
+*   [Security Office](https://gbpuat.ac.in/facility/security_office/index.html)
+*   [University Farm](https://gbpuat.ac.in/facility/farm/index.html)
+
+*   [University Guest House](https://gbpuat.ac.in/guest_house/index.html)
+*   [University Hospital](https://gbpuat.ac.in/facility/hospital/index.html)
+*   [University Library](https://gbpuat.ac.in/facility/library/index.html)
+*   [Internal Notices and Circulars](http://www.gbpuat-tech.ac.in/announcement.php?id=1)
+
+  
+**College of Technology**  
+Govind Ballabh Pant University of Agriculture and Technology,  
+Pantnagar, Udham Singh Nagar,  
+Uttarakhand 263145.  
+  
+: 05944-233338  
+Fax: 05944-233338  
+deanctoffice@gmail.com
+
+  
+  
+
+![Image 16: target](http://www.gbpuat-tech.ac.in/img/target.png)
+
+**Disclaimer:** The facts published on this website are for immediate information only and no legal claim can be made for any damage caused by using the content of this site. The College of Technology reserves the right to change the information published on this site at any point of time without prior or further notification. The correct details regarding Posts/Vacancies/Designation/Publications etc. pertaining to the user’s queries are to be provided by C.P.O. office/Concerned Unit Office after its verification.
+
+*   [](https://www.facebook.com/)
+*   [](https://twitter.com/)
+*   [](https://plus.google.com/)
+*   [](https://www.linkedin.com/)
+*   [](https://www.pinterest.com/)
+*   [](https://www.youtube.com/)
+

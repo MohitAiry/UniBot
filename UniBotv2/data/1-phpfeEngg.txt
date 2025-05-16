@@ -1,0 +1,414 @@
+Title: : College of Technology ::.
+
+URL Source: http://www.gbpuat-tech.ac.in/phpfeEngg.php?id=1
+
+Markdown Content:
+.:: College of Technology ::.
+===============
+
+Toggle navigation [![Image 2](http://www.gbpuat-tech.ac.in/img/logo.png)](http://www.gbpuat-tech.ac.in/index.php)
+
+*   [Home](http://www.gbpuat-tech.ac.in/index.php)
+*   [Departments](http://www.gbpuat-tech.ac.in/phpfeEngg.php?id=1#)
+    *   [Agricultural Engineering](http://www.gbpuat-tech.ac.in/AgricultureEngg.php?id=1)
+    *   [Computer Engineering](http://www.gbpuat-tech.ac.in/computerEngg.php?id=1)
+    *   [Civil Engineering](http://www.gbpuat-tech.ac.in/civilEngg.php?id=1)
+    *   [Electronics & Communication Engineering](http://www.gbpuat-tech.ac.in/electronicsEngg.php?id=1)
+    *   [Electrical Engineering](http://www.gbpuat-tech.ac.in/electricalEngg.php?id=1)
+    *   [Farm Machinery & Power Engineering](http://www.gbpuat-tech.ac.in/farmEngg.php?id=1)
+    *   [Master of Computer Applications](http://www.gbpuat-tech.ac.in/mca.php?id=1)
+    *   [Industrial & Production Engineering](http://www.gbpuat-tech.ac.in/productionEngg.php?id=1)
+    *   [Information Technology](http://www.gbpuat-tech.ac.in/informationTech.php?id=1)
+    *   [Irrigation & Drainage Engineering](http://www.gbpuat-tech.ac.in/irrigationEngg.php?id=1)
+    *   [Mechanical Engineering](http://www.gbpuat-tech.ac.in/mechanicalEngg.php?id=1)
+    *   [Post Harvest Process & Food Engineering](http://www.gbpuat-tech.ac.in/phpfeEngg.php?id=1)
+    *   [Soil & Water Conservation Engineering](http://www.gbpuat-tech.ac.in/swceEngg.php?id=1)
+*   [Governance](http://www.gbpuat-tech.ac.in/phpfeEngg.php?id=1#)
+    *   [BOG members/Minutes](http://www.gbpuat-tech.ac.in/BoG.php?id=1)
+    *   [Different Committee](http://www.gbpuat-tech.ac.in/phpfeEngg.php?id=1#)
+    *   [Projects](http://www.gbpuat-tech.ac.in/projects.php?id=1)
+*   [AICTE related Documents](http://www.gbpuat-tech.ac.in/aicte.php?id=1)
+*   [NIRF](http://www.gbpuat-tech.ac.in/nirf.php?id=1)
+*   [Grievance/Feedback Form](http://www.gbpuat-tech.ac.in/phpfeEngg.php?id=1#)
+    *   [Grievance Form](https://forms.gle/qMiHrc6FfonV14fZ9)
+    *   [Student Feedback Form](https://forms.gle/1jBQ6wQpzYXyhk3c9)
+    *   [Faculty Feedback Form](https://forms.gle/UJRwpKbCmuQnpYeM8)
+*   [ISTE](http://www.gbpuat-tech.ac.in/iste.php?id=1)
+*   [ADMISSION](http://www.gbpuat-tech.ac.in/admission.php?id=1)
+*   [Faculty Login](http://www.gbpuat-tech.ac.in/online/login.php)
+*   [ABOUT US](http://www.gbpuat-tech.ac.in/about.php)
+*   [CONTACT US](http://www.gbpuat-tech.ac.in/contact.php)
+
+Welcome to Post Harvest Process & Food Engineering Department
+-------------------------------------------------------------
+
+*   [Home](http://www.gbpuat-tech.ac.in/index.php)
+*   [/](http://www.gbpuat-tech.ac.in/phpfeEngg.php?id=1#)
+*   
+
+*   [About Department](http://www.gbpuat-tech.ac.in/phpfeEngg.php?id=1)
+*   [Faculty](http://www.gbpuat-tech.ac.in/phpfeEngg.php?id=2)
+*   [Academics](http://www.gbpuat-tech.ac.in/phpfeEngg.php?id=10)
+*   [Laboratories](http://www.gbpuat-tech.ac.in/phpfeEngg.php?id=4)
+*   [Research Projects](http://www.gbpuat-tech.ac.in/phpfeEngg.php?id=6)
+*   [Publications](http://www.gbpuat-tech.ac.in/phpfeEngg.php?id=7)
+*   Achievements
+    
+    [Department Achievements](http://www.gbpuat-tech.ac.in/phpfeEngg.php?id=8) [Students Achievements](http://www.gbpuat-tech.ac.in/phpfeEngg.php?id=9)
+    
+*   Students
+    
+    [PG Students](http://www.gbpuat-tech.ac.in/phpfeEngg.php?id=5) [Ph.D. Students](http://www.gbpuat-tech.ac.in/phpfeEngg.php?id=13)
+    
+*   Trainings
+    
+    [Trainings/FDP/Seminar/Conference Attended by Faculty](http://www.gbpuat-tech.ac.in/phpfeEngg.php?id=12) [Organised by Department](http://www.gbpuat-tech.ac.in/phpfeEngg.php?id=17)
+    
+*   Courses
+    
+    [Semester 1](http://www.gbpuat-tech.ac.in/phpfeEngg.php?id=15) [Semester 2](http://www.gbpuat-tech.ac.in/phpfeEngg.php?id=16)
+    
+*   [Activities](http://www.gbpuat-tech.ac.in/phpfeEngg.php?id=14)
+*   [Time Table](https://sites.google.com/view/collegetimetabletech/home)
+*   [Photo Gallery](http://www.gbpuat-tech.ac.in/phpfeEngg.php?id=11)
+
+About Department
+----------------
+
+![Image 3: Head IPED Engg](http://www.gbpuat-tech.ac.in/online/images/16.08.2021_1629095632412.jpg)  
+**Dr. P. K.Omre**  
+Professor & Head  
+Department of Post Harvest Process & Food Engineering
+
+The Department of Post Harvest Process and Food Engineering is a constituent department of the College of Technology of the University. The department was created as a result of the restructuring of the Department of Agricultural Engineering in 1984. The department was also identified as a Centre of Advanced Studies in Post Harvest Technology by FAO/UNDP. The department deals with the processing and utilization of food materials. It places a balanced emphasis on teaching and research activities. Over the years the department has made significant contributions in various areas of Harvest and Post Harvest Processing, Food Engineering and Food Biotechnology. It has developed a number of processes, technologies and equipment for the related industries and farmers.
+
+  
+  
+
+**Degree Program Offered**  
+  
+The Courses are as follows:  
+*   B.Tech.(Agricultural Engineering)
+*   M.Tech (Process & Food Engineering)
+*   M.Tech (Food & Bioprocess Engineering)
+*   Ph.D. (Process & Food Engineering)
+  
+
+  
+  
+
+### Portals
+
+*   [Pantnagar Technology Alumni Association](http://ptaa-gbpuat.com/)
+*   [AMS Portal](https://gbpuat.auams.in/)
+*   [Web mail](https://mail.gbpuat.ac.in/)
+*   [Engineering & Technology Society](http://www.gbpuat-tech.ac.in/ETS/index.html)
+
+### Useful Links
+
+*   [Google Map](https://www.google.com/maps/place/College+of+Technology+Pantnagar/@29.0229292,79.4914002,15z/data=!4m5!3m4!1s0x0:0x4826889a43f07995!8m2!3d29.0229292!4d79.4914002)
+*   [IPMC](https://gbpuat.ac.in/ipmc/index.html)
+*   [Telephone Directory](https://gbpuat.ac.in/contact/index.html)
+*   [Placement Notice](http://www.gbpuat-tech.ac.in/placement.php?id=2)
+
+*   [Alumni](http://www.gbpuat-tech.ac.in/alumni.php)
+*   [GIAN](https://gbpuat.ac.in/gian/index.html)
+*   [Pantnagar Technology Alumni Association](http://www.gbpuat-tech.ac.in/ptaa.php?id=1)
+*   [Leave Management System](http://www.gbpuat-tech.ac.in/LMS/login.php)
+
+### Facilities
+
+*   [CCF](https://gbpuat.ac.in/facility/CCF/index.html)
+*   [Garden Section](https://gbpuat.ac.in/facility/garden/index.html)
+*   [Security Office](https://gbpuat.ac.in/facility/security_office/index.html)
+*   [University Farm](https://gbpuat.ac.in/facility/farm/index.html)
+
+*   [University Guest House](https://gbpuat.ac.in/guest_house/index.html)
+*   [University Hospital](https://gbpuat.ac.in/facility/hospital/index.html)
+*   [University Library](https://gbpuat.ac.in/facility/library/index.html)
+*   [Internal Notices and Circulars](http://www.gbpuat-tech.ac.in/announcement.php?id=1)
+
+  
+**College of Technology**  
+Govind Ballabh Pant University of Agriculture and Technology,  
+Pantnagar, Udham Singh Nagar,  
+Uttarakhand 263145.  
+  
+: 05944-233338  
+Fax: 05944-233338  
+deanctoffice@gmail.com
+
+  
+  
+
+![Image 4: target](http://www.gbpuat-tech.ac.in/img/target.png)
+
+**Disclaimer:** The facts published on this website are for immediate information only and no legal claim can be made for any damage caused by using the content of this site. The College of Technology reserves the right to change the information published on this site at any point of time without prior or further notification. The correct details regarding Posts/Vacancies/Designation/Publications etc. pertaining to the user’s queries are to be provided by C.P.O. office/Concerned Unit Office after its verification.
+
+Title: : College of Technology ::.
+
+URL Source: http://www.gbpuat-tech.ac.in/phpfeEngg.php?id=2
+
+
+Welcome to Post Harvest Process & Food Engineering Department
+-------------------------------------------------------------
+
+*   [Home](http://www.gbpuat-tech.ac.in/index.php)
+*   [/](http://www.gbpuat-tech.ac.in/phpfeEngg.php?id=2#)
+*   
+
+*   [About Department](http://www.gbpuat-tech.ac.in/phpfeEngg.php?id=1)
+*   [Faculty](http://www.gbpuat-tech.ac.in/phpfeEngg.php?id=2)
+*   [Academics](http://www.gbpuat-tech.ac.in/phpfeEngg.php?id=10)
+*   [Laboratories](http://www.gbpuat-tech.ac.in/phpfeEngg.php?id=4)
+*   [Research Projects](http://www.gbpuat-tech.ac.in/phpfeEngg.php?id=6)
+*   [Publications](http://www.gbpuat-tech.ac.in/phpfeEngg.php?id=7)
+*   Achievements
+    
+    [Department Achievements](http://www.gbpuat-tech.ac.in/phpfeEngg.php?id=8) [Students Achievements](http://www.gbpuat-tech.ac.in/phpfeEngg.php?id=9)
+    
+*   Students
+    
+    [PG Students](http://www.gbpuat-tech.ac.in/phpfeEngg.php?id=5) [Ph.D. Students](http://www.gbpuat-tech.ac.in/phpfeEngg.php?id=13)
+    
+*   Trainings
+    
+    [Trainings/FDP/Seminar/Conference Attended by Faculty](http://www.gbpuat-tech.ac.in/phpfeEngg.php?id=12) [Organised by Department](http://www.gbpuat-tech.ac.in/phpfeEngg.php?id=17)
+    
+*   Courses
+    
+    [Semester 1](http://www.gbpuat-tech.ac.in/phpfeEngg.php?id=15) [Semester 2](http://www.gbpuat-tech.ac.in/phpfeEngg.php?id=16)
+    
+*   [Activities](http://www.gbpuat-tech.ac.in/phpfeEngg.php?id=14)
+*   [Time Table](https://sites.google.com/view/collegetimetabletech/home)
+*   [Photo Gallery](http://www.gbpuat-tech.ac.in/phpfeEngg.php?id=11)
+
+Department of Post Harvest Process & Food Engineering Faculty
+-------------------------------------------------------------
+
+![Image 6](http://www.gbpuat-tech.ac.in/online/images/16.08.2021_1629095632412.jpg)
+
+**[Dr. P. K.omre](http://www.gbpuat-tech.ac.in/complete_profile.php?id=72)**  
+**Web Address** : [Click Here](http://www.gbpuat-tech.ac.in/phpfeEngg.php?id=2#)  
+**Email-id**: pkomre@gmail.com  
+**Qualification**: Ph.D  
+**Designation**: Professor & Head  
+**Research Interests**: Process and Food engineering ,design development, product development
+
+![Image 7](http://www.gbpuat-tech.ac.in/online/images/16.02.2021_1613461301460.jpg)
+
+**[Dr. N. C. Shahi (on Deputation)](http://www.gbpuat-tech.ac.in/complete_profile.php?id=149)**  
+**Web Address** : [Click Here](http://www.gbpuat-tech.ac.in/phpfeEngg.php?id=2#)  
+**Email-id**: ncshahi2008@gmail.com  
+**Qualification**: Ph. D. (Process and Food Engineering)  
+**Designation**: Professor  
+**Research Interests**: Process Equipment Design and Development, Biomass Conversion and Utilization
+
+![Image 8](http://www.gbpuat-tech.ac.in/online/images/22.10.2020_1603359650473.jpg)
+
+**[Dr. Sachin Kumar](http://www.gbpuat-tech.ac.in/complete_profile.php?id=163)**  
+**Web Address** : [Click Here](http://www.gbpuat-tech.ac.in/phpfeEngg.php?id=2#)  
+**Email-id**: sachin29319@gmail.com  
+**Qualification**: Pursuing Ph.D  
+**Designation**: Assistant Professor  
+**Research Interests**: Process and Food Engineering
+
+![Image 9](http://www.gbpuat-tech.ac.in/online/images/28.02.2021_1614515137442.jpg)
+
+**[Dr. Manish Dak](http://www.gbpuat-tech.ac.in/complete_profile.php?id=159)**  
+**Web Address** : [Click Here](http://www.gbpuat-tech.ac.in/phpfeEngg.php?id=2#)  
+**Email-id**: manish\_dak@yahoo.com  
+**Qualification**: Ph.D  
+**Designation**: Assistant Professor  
+**Research Interests**: Dairy and Food Engineering
+
+  
+  
+
+### Portals
+
+*   [Pantnagar Technology Alumni Association](http://ptaa-gbpuat.com/)
+*   [AMS Portal](https://gbpuat.auams.in/)
+*   [Web mail](https://mail.gbpuat.ac.in/)
+*   [Engineering & Technology Society](http://www.gbpuat-tech.ac.in/ETS/index.html)
+
+### Useful Links
+
+*   [Google Map](https://www.google.com/maps/place/College+of+Technology+Pantnagar/@29.0229292,79.4914002,15z/data=!4m5!3m4!1s0x0:0x4826889a43f07995!8m2!3d29.0229292!4d79.4914002)
+*   [IPMC](https://gbpuat.ac.in/ipmc/index.html)
+*   [Telephone Directory](https://gbpuat.ac.in/contact/index.html)
+*   [Placement Notice](http://www.gbpuat-tech.ac.in/placement.php?id=2)
+
+*   [Alumni](http://www.gbpuat-tech.ac.in/alumni.php)
+*   [GIAN](https://gbpuat.ac.in/gian/index.html)
+*   [Pantnagar Technology Alumni Association](http://www.gbpuat-tech.ac.in/ptaa.php?id=1)
+*   [Leave Management System](http://www.gbpuat-tech.ac.in/LMS/login.php)
+
+### Facilities
+
+*   [CCF](https://gbpuat.ac.in/facility/CCF/index.html)
+*   [Garden Section](https://gbpuat.ac.in/facility/garden/index.html)
+*   [Security Office](https://gbpuat.ac.in/facility/security_office/index.html)
+*   [University Farm](https://gbpuat.ac.in/facility/farm/index.html)
+
+*   [University Guest House](https://gbpuat.ac.in/guest_house/index.html)
+*   [University Hospital](https://gbpuat.ac.in/facility/hospital/index.html)
+*   [University Library](https://gbpuat.ac.in/facility/library/index.html)
+*   [Internal Notices and Circulars](http://www.gbpuat-tech.ac.in/announcement.php?id=1)
+
+  
+**College of Technology**  
+Govind Ballabh Pant University of Agriculture and Technology,  
+Pantnagar, Udham Singh Nagar,  
+Uttarakhand 263145.  
+  
+: 05944-233338  
+Fax: 05944-233338  
+deanctoffice@gmail.com
+
+  
+  
+
+![Image 10: target](http://www.gbpuat-tech.ac.in/img/target.png)
+
+**Disclaimer:** The facts published on this website are for immediate information only and no legal claim can be made for any damage caused by using the content of this site. The College of Technology reserves the right to change the information published on this site at any point of time without prior or further notification. The correct details regarding Posts/Vacancies/Designation/Publications etc. pertaining to the user’s queries are to be provided by C.P.O. office/Concerned Unit Office after its verification.
+Title: : College of Technology ::.
+
+URL Source: http://www.gbpuat-tech.ac.in/phpfeEngg.php?id=
+
+Welcome to Post Harvest Process & Food Engineering Department
+-------------------------------------------------------------
+
+*   [Home](http://www.gbpuat-tech.ac.in/index.php)
+*   [/](http://www.gbpuat-tech.ac.in/phpfeEngg.php?id=4#)
+*   
+
+*   [About Department](http://www.gbpuat-tech.ac.in/phpfeEngg.php?id=1)
+*   [Faculty](http://www.gbpuat-tech.ac.in/phpfeEngg.php?id=2)
+*   [Academics](http://www.gbpuat-tech.ac.in/phpfeEngg.php?id=10)
+*   [Laboratories](http://www.gbpuat-tech.ac.in/phpfeEngg.php?id=4)
+*   [Research Projects](http://www.gbpuat-tech.ac.in/phpfeEngg.php?id=6)
+*   [Publications](http://www.gbpuat-tech.ac.in/phpfeEngg.php?id=7)
+*   Achievements
+    
+    [Department Achievements](http://www.gbpuat-tech.ac.in/phpfeEngg.php?id=8) [Students Achievements](http://www.gbpuat-tech.ac.in/phpfeEngg.php?id=9)
+    
+*   Students
+    
+    [PG Students](http://www.gbpuat-tech.ac.in/phpfeEngg.php?id=5) [Ph.D. Students](http://www.gbpuat-tech.ac.in/phpfeEngg.php?id=13)
+    
+*   Trainings
+    
+    [Trainings/FDP/Seminar/Conference Attended by Faculty](http://www.gbpuat-tech.ac.in/phpfeEngg.php?id=12) [Organised by Department](http://www.gbpuat-tech.ac.in/phpfeEngg.php?id=17)
+    
+*   Courses
+    
+    [Semester 1](http://www.gbpuat-tech.ac.in/phpfeEngg.php?id=15) [Semester 2](http://www.gbpuat-tech.ac.in/phpfeEngg.php?id=16)
+    
+*   [Activities](http://www.gbpuat-tech.ac.in/phpfeEngg.php?id=14)
+*   [Time Table](https://sites.google.com/view/collegetimetabletech/home)
+*   [Photo Gallery](http://www.gbpuat-tech.ac.in/phpfeEngg.php?id=11)
+
+Department Laboratory Details
+-----------------------------
+
+| S.No. | Lab Name | Image Link |
+| --- | --- | --- |
+| 1. | Bioconversion Lab | [![Image 2: Not Available](http://www.gbpuat-tech.ac.in/img/phpfe_data/Biocoversion%20lAb-min.jpg)](http://www.gbpuat-tech.ac.in/img/phpfe_data/BiocoversionlAb-min.jpg) |
+| 2. | Packaging Lab | [![Image 3: Not Available](http://www.gbpuat-tech.ac.in/img/phpfe_data/Packaging%20Lab-min.jpg)](http://www.gbpuat-tech.ac.in/img/phpfe_data/PackagingLab-min.jpg) |
+| 3. | Quality Control Lab | [![Image 4: Not Available](http://www.gbpuat-tech.ac.in/img/phpfe_data/Quality%20Control%20LAb-min.jpg)](http://www.gbpuat-tech.ac.in/img/phpfe_data/QualityControlLAb-min.jpg) |
+| 4. | Research & Developmemt Lab | [![Image 5: Not Available](http://www.gbpuat-tech.ac.in/img/phpfe_data/Research%20&%20Devlopmemt%20Lab-min.jpg)](http://www.gbpuat-tech.ac.in/img/phpfe_data/Research&DevlopmemtLab-min.jpg) |
+| 5. | Storage Lab | [![Image 6: Not Available](http://www.gbpuat-tech.ac.in/img/phpfe_data/Storage%20Lab-min.jpg)](http://www.gbpuat-tech.ac.in/img/phpfe_data/StorageLab-min.jpg) |
+| 5. | Wet Milling Lab | [![Image 7: Not Available](http://www.gbpuat-tech.ac.in/img/phpfe_data/Wet%20milling%20Lab-min.jpg)](http://www.gbpuat-tech.ac.in/img/phpfe_data/WetmillingLab-min.jpg) |
+
+  
+
+###### List of Equipments
+
+  
+
+| S.No. | Name of Equipment | Availability Place |
+| --- | --- | --- |
+|  | Ultrasonic Processor | Quality Control Lab |
+|  | De-Ionized Distilled Water Purification Unit | Quality Control Lab |
+|  | Solvent Extraction Unit | Quality Control Lab |
+|  | Muffle Furnace | Quality Control Lab |
+|  | Ph meter | Quality Control Lab |
+|  | Reflectometer | Quality Control Lab |
+|  | Water bath | Quality Control Lab |
+|  | Soxhlet Apparatus | Quality Control Lab |
+|  | Nitrogen Gas Evaporator | Quality Control Lab |
+|  | Uv-vis Spectrophotometer | Downstream Processing Lab |
+|  | Rotational Viscometer | Downstream Processing Lab |
+|  | Vacuum Oven | Downstream Processing Lab |
+|  | Centrifuge | Downstream Processing Lab |
+|  | Texture Analyzer | Bioconversion Lab |
+|  | Laminar Air Flow | Bioconversion Lab |
+|  | Fermenter | Bioconversion Lab |
+|  | Water activity Meter | Bioconversion Lab |
+|  | Shaking Incubator | Wet Milling Lab |
+|  | Apparatus for determine the angle of Repose | EPBM Lab |
+|  | Apparatus for determine co-efficient Fraction | EPBM Lab |
+|  | Digital Rockwell Hardness Tester | Wet Milling Lab |
+|  | Willing Grinder | Pulse Milling Lab |
+|  | Fluidized Bed Dryer | Process Lab |
+|  | Chocolate concher Machine | Jaggery and Khandsari Lab |
+|  | Melting, Tempering & Molding Machine | Jaggery and Khandsari Lab |
+|  | Tray Dryer | Storage Lab |
+|  | Infrared Moisture Meter | Pulse Milling Lab |
+|  | Oswa Moisture Meter | Pulse Milling Lab |
+
+  
+  
+
+### Portals
+
+*   [Pantnagar Technology Alumni Association](http://ptaa-gbpuat.com/)
+*   [AMS Portal](https://gbpuat.auams.in/)
+*   [Web mail](https://mail.gbpuat.ac.in/)
+*   [Engineering & Technology Society](http://www.gbpuat-tech.ac.in/ETS/index.html)
+
+### Useful Links
+
+*   [Google Map](https://www.google.com/maps/place/College+of+Technology+Pantnagar/@29.0229292,79.4914002,15z/data=!4m5!3m4!1s0x0:0x4826889a43f07995!8m2!3d29.0229292!4d79.4914002)
+*   [IPMC](https://gbpuat.ac.in/ipmc/index.html)
+*   [Telephone Directory](https://gbpuat.ac.in/contact/index.html)
+*   [Placement Notice](http://www.gbpuat-tech.ac.in/placement.php?id=2)
+
+*   [Alumni](http://www.gbpuat-tech.ac.in/alumni.php)
+*   [GIAN](https://gbpuat.ac.in/gian/index.html)
+*   [Pantnagar Technology Alumni Association](http://www.gbpuat-tech.ac.in/ptaa.php?id=1)
+*   [Leave Management System](http://www.gbpuat-tech.ac.in/LMS/login.php)
+
+### Facilities
+
+*   [CCF](https://gbpuat.ac.in/facility/CCF/index.html)
+*   [Garden Section](https://gbpuat.ac.in/facility/garden/index.html)
+*   [Security Office](https://gbpuat.ac.in/facility/security_office/index.html)
+*   [University Farm](https://gbpuat.ac.in/facility/farm/index.html)
+
+*   [University Guest House](https://gbpuat.ac.in/guest_house/index.html)
+*   [University Hospital](https://gbpuat.ac.in/facility/hospital/index.html)
+*   [University Library](https://gbpuat.ac.in/facility/library/index.html)
+*   [Internal Notices and Circulars](http://www.gbpuat-tech.ac.in/announcement.php?id=1)
+
+  
+**College of Technology**  
+Govind Ballabh Pant University of Agriculture and Technology,  
+Pantnagar, Udham Singh Nagar,  
+Uttarakhand 263145.  
+  
+: 05944-233338  
+Fax: 05944-233338  
+deanctoffice@gmail.com
+
+  
+  
+
+![Image 8: target](http://www.gbpuat-tech.ac.in/img/target.png)
+
+**Disclaimer:** The facts published on this website are for immediate information only and no legal claim can be made for any damage caused by using the content of this site. The College of Technology reserves the right to change the information published on this site at any point of time without prior or further notification. The correct details regarding Posts/Vacancies/Designation/Publications etc. pertaining to the user’s queries are to be provided by C.P.O. office/Concerned Unit Office after its verification.
+
+
+
+

@@ -1,0 +1,519 @@
+Title: : College of Technology ::.
+
+URL Source: http://www.gbpuat-tech.ac.in/AgricultureEngg.php?id=1
+
+Markdown Content:
+**Course Outcomes (course articulation matrix)** The course articulation matrix has been presented as under. The correlation level 1, 2 and 3 means: 1- Slight (low), 2- Moderate (medium) and 3-Substantial (high)
+
+| CO | Statements | PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | PO12 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| TSW-211 Soil Mechanics |
+| TSW-211.1 | Compute various Engineering properties of different types of soils | 3 | 3 | 1 | 3 | 2 | \- | \- | \- | 1 | 1 | 1 | 3 |
+| TSW-211.2 | Apply the Knowledge of soil mechanics to design various types of structures | 3 | 3 | 3 | 3 | 3 | 2 | 1 | \- | 3 | \- | 2 | 2 |
+| TSW-211.3 | Select a particular type of soil for utilization under specific conditions in nature | 3 | 3 | 2 | 2 | 3 | 1 | 1 | \- | \- | 2 | 1 | 2 |
+| TSW-211.4 | Develop a plan for suitability of soil conservation structures at a location | 3 | 3 | 2 | 2 | 3 | 1 | 2 | 2 | 3 | 2 | 3 | 2 |
+| TSW-211 | 3 | 3 | 2 | 3 | 3 | 1 | 1 | 2 | 2 | 2 | 2 | 2 |
+| TSW-222 Watershed Hydrology |
+| TSW-222.1 | Understand different components of hydrologic cycle and their importance | 3 | 2 | 2 | 1 | \- | 1 | 3 | \- | 1 | 1 | 2 | 1 |
+| TSW-222.2 | Compute areal rainfall and runoff on a watershed scale | 3 | 2 | 2 | 3 | 3 | \- | 2 | 1 | 2 | 3 | 2 | 2 |
+| TSW-222.3 | Develop rainfall-runoff relationship for a watershed for prediction purpose | 3 | 2 | 2 | 3 | 3 | \- | 2 | 1 | 2 | 3 | 2 | 2 |
+| TSW-222.4 | Apply the knowledge on hydrology for planning watershed management projects | 3 | 3 | 3 | 3 | 3 | 2 | 3 | 3 | 3 | 3 | 3 | 2 |
+| TSW-222 | 3 | 2 | 2 | 3 | 3 | 2 | 3 | 2 | 2 | 3 | 2 | 2 |
+| TSW-371 Soil and Water Conservation Engineering |
+| TSW-371.1 | Understand the importance of soil & water conservation(SWC) measures for the control of soil erosion and thereby enhancing agricultural productivity | 2 | 3 | 3 | 1 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 |
+| TSW-371.2 | Compute various design components of terraces, bunds etc. | 3 | 3 | 3 | 3 | 2 | 2 | 3 | 1 | 2 | 1 | 2 | \- |
+| TSW-371.3 | Select appropriate soil and water conservation measures at a location | 3 | 3 | 1 | 3 | 3 | 2 | 3 | 2 | 3 | 1 | 2 | \- |
+| TSW-371.4 | Apply the knowledge on engineering for design of SWC projects in watersheds | 3 | 3 | 1 | 3 | 2 | 3 | 2 | 2 | 3 | 3 | 2 | \- |
+| TSW-371 | 3 | 3 | 2 | 3 | 3 | 3 | 3 | 2 | 3 | 2 | 2 | 3 |
+| TSW-373 Watershed Planning and Management |
+| TSW-373.1 | Understand the concept of watershed as a unit of planning and development of agriculture on a watershed scale to enhance agricultural productivity | 3 | 3 | \- | 2 | \- | 3 | 2 | 1 | 3 | 3 | 3 | 3 |
+| TSW-373.2 | Compute various parameters of hydrologic and geomorphologic characteristics of watershed | 3 | 3 | 3 | 3 | 3 | 2 | 2 | \- | 3 | 2 | 2 | 2 |
+| TSW-373.3 | Formulate the appropriate watershed management plan for implementation | 3 | 3 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 3 | 2 | 2 |
+| TSW-373.4 | Apply the engineering knowledge and skill for designing various SWC projects in watersheds | 3 | 3 | \- | 3 | 3 | 3 | 3 | 1 | 3 | 3 | 3 | 3 |
+| TSW-373 | 3 | 3 | 3 | 3 | 3 | 3 | 2 | 1 | 3 | 3 | 3 | 3 |
+| TSW-382 Water Harvesting and Soil & Water Conservation Structures |
+| TSW-382.1 | Understand the procedures/steps for designing various water harvesting and soil conservation structures/measures | 3 | 3 | 3 | 3 | 3 | 3 | 3 | \- | 3 | 3 | 3 | \- |
+| TSW-382.2 | Design various components of drop, inlet spillways, farm pond, earth embankments etc. | 3 | 3 | 3 | 2 | 2 | 2 | 2 | \- | 2 | 2 | 3 | \- |
+| TSW-382.3 | Select appropriate water harvesting and soil conservation structures at a location | 3 | 3 | 1 | 3 | 2 | 2 | 2 | 2 | 2 | 2 | 3 | 3 |
+| TSW-382.4 | Apply the knowledge on engineering for design of water harvesting and soil conservation structures in watersheds | 3 | 3 | 3 | 3 | 2 | 2 | 2 | 2 | 2 | 3 | 3 | 3 |
+| TSW-382 | 3 | 3 | 3 | 3 | 2 | 2 | 2 | 2 | 2 | 3 | 3 | 3 |
+| TSW-428 Remote sensing & GIS applications |
+| TSW-428.1 | Understand the basic concepts of RS, GIS & Photogrammetry | 3 | 1 | 1 | 3 | 3 | \- | 2 | 1 | 1 | 1 | 1 | 1 |
+| TSW-428.2 | Acquaint with components & scanning techniques of RS & GIS | 3 | \- | 2 | 1 | 3 | \- | \- | \- | 2 | 2 | 3 | 2 |
+| TSW-428.3 | Analyse digital images & classifications using various principles | 1 | 3 | 1 | 3 | 3 | 3 | \- | \- | 3 | 3 | 3 | 2 |
+| TSW-428.4 | Apply the knowledge of RS & GIS techniques for natural resource management | 3 | 3 | 2 | 3 | 3 | 2 | 2 | \- | 3 | 3 | 3 | 3 |
+| TSW-428 | 3 | 2 | 2 | 3 | 3 | 3 | 2 | 1 | 2 | 2 | 3 | 2 |
+| TMP-235 Fundamentals of Renewable Energy Sources |
+| TMP-235.1 | Understand the fundamentals of various Renewable Energy Sources and their applications | 3 | 2 | 2 | 1 | 2 | 3 | 2 | \- | 2 | 3 | 2 | 3 |
+| TMP-235.2 | Analyze the different approaches of solar energy collection, storage and power generation. | 2 | 3 | \- | 3 | 2 | 2 | 3 | 1 | 2 | 3 | 3 | 3 |
+| TMP-235.3 | Compute the power generation from solar energy and wind power systems | 2 | 3 | 3 | \- | 1 | 3 | 2 | 1 | 3 | 2 | 3 | 3 |
+| TMP-235.4 | Explain the construction and working principle of different Bio energy conversion systems | 3 | \- | 2 | 1 | 2 | 3 | 3 | \- | 3 | 2 | 3 | 3 |
+| TMP-235 | 3 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 3 |
+| TMP-236 Renewable Power Sources |
+| TMP-236.1 | Understand the working and operating principles of different Renewable Energy Sources. | 2 | 3 | 3 | \- | 2 | 3 | 2 | 2 | 2 | 3 | \- | 3 |
+| TMP-236.2 | Explain the construction, operation and working principle of biomass/MSW based power generation systems | 2 | 3 | 3 | \- | 2 | 3 | 2 | 2 | 3 | 2 | 3 | 2 |
+| TMP-236.3 | Design the power generation systems from solar energy, wind energy and small hydropower | 3 | 3 | 2 | \- | 2 | 3 | 2 | 3 | 3 | 3 | 2 | 3 |
+| TMP-236.4 | Analyze the working of different alternative energy sources | \- | 3 | 2 | 2 | 2 | \- | 3 | 2 | 3 | 2 | 3 | 3 |
+| TMP-236 | 2 | 3 | 3 | 2 | 2 | 3 | 2 | 2 | 3 | 3 | 3 | 3 |
+| TMP-238 Farm Machinery and Equipment-I |
+| TMP-238.1 | Apply the knowledge of various farm machines used for farming operations and land development works including their material of constructions | 3 | 2 | 2 | \- | 1 | \- | 3 | 2 | 3 | 3 | 3 | 3 |
+| TMP-238.2 | Calculate the forces acting on the tillage machine components, draft requirement of the various machines and economics of operating these machines | 3 | 3 | 3 | 1 | 2 | 1 | 1 | 2 | 3 | 3 | 3 | 3 |
+| TMP-238.3 | Compute the size of tractor required to operate the machines | 3 | \- | \- | 2 | 2 | \- | \- | 1 | 1 | 3 | 3 | 3 |
+| TMP-238.4 | Select the types of machines required for specific field operations and material for their construction | 3 | 2 | \- | 1 | 2 | 1 | 3 | 1 | 3 | 2 | 2 | 3 |
+| TMP-238 | 3 | 2 | 3 | 1 | 2 | 1 | 2 | 2 | 3 | 3 | 3 | 3 |
+| TMP-319 Tractor Systems and Control |
+| TMP- 319.1 | Understand construction & working of different systems of tractor clutch transmission & power flow in a tractor. | 3 | 2 | \- | 2 | \- | 2 | 1 | 2 | 2 | 2 | 2 | 3 |
+| TMP- 319.2 | Analyze problems related clutch, gear box, traction, traction mechanics. | 3 | 3 | 2 | 2 | \- | 2 | 2 | 1 | 2 | 3 | 2 | 3 |
+| TMP- 319.3 | Relate human factors that are considered for the design of controls on tractors. | 3 | 2 | 2 | \- | 2 | 2 | 3 | 3 | 2 | 2 | 3 | 3 |
+| TMP- 319.4 | Explain construction, operation and working principles of different systems of tractor in general. | 3 | 2 | 2 | 2 | 2 | 1 | \- | 2 | 2 | 2 | 3 | 3 |
+| TMP-319 | 3 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 3 | 3 |
+| TMP-351 Tractor and Automotive Engines |
+| TMP-351.1 | Understand the working and operating principles of different systems of I.C. engines. | 3 | 2 | 2 | \- | 1 | 2 | 3 | \- | 3 | 2 | 1 | 3 |
+| TMP- 351.2 | Indentify the different components of I.C. engines. | 2 | 1 | 1 | \- | 2 | 2 | 1 | \- | 2 | 2 | 2 | 3 |
+| TMP- 351.3 | Relate and analyze the working of different systems of engine. | 3 | 2 | 2 | 2 | 3 | \- | 2 | 2 | 2 | 3 | 2 | 3 |
+| TMP- 351.4 | Comprehend the terminologies and efficiency of I.C. engines with numerical specific to tractor engine. | 3 | 3 | 2 | 2 | 1 | \- | 2 | 2 | 2 | 2 | 3 | 3 |
+| TMP-351 | 3 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 3 |
+| TMP-353 Farm machinery and Equipment-II |
+| TMP-353.1 | Understand the principles & types of cutting mechanisms. Construction & adjustments of shear and Impact-type cutting mechanisms. | 2 | 3 | 2 | 3 | 2 | 1 | 1 | \- | 2 | 1 | 3 | 3 |
+| TMP-353.2 | Crop harvesting machinery: Mower, Reaper, windrower, reaper binder & forage harvester. Forage chopping & handling equipment. | 2 | 2 | 1 | 1 | 2 | 3 | 1 | 1 | 2 | 3 | 3 | 3 |
+| TMP-353.3 | Apply threshing mechanics & various types of threshers. Straw combines & grain combines, Maize harvesting & shelling equipment, Root crop harvesting equipment -potato, Groundnut etc. | 3 | 3 | 2 | 2 | 3 | 1 | 2 | 1 | 2 | 1 | 3 | 3 |
+| TMP-353.4 | Understand Cotton picking & Sugarcane harvesting equipment. Principles of fruit harvesting tools & machines. | 3 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 3 | 2 | 2 | 2 |
+| TMP-353 | 3 | 3 | 3 | 3 | 3 | 2 | 2 | 3 | 3 | 2 | 3 | 3 |
+| TMP-376 Bio-Energy Systems: Design and Applications |
+| TMP-376.1 | Apply the knowledge of various design perspectives in construction and working of different bio energy systems and their applications | 3 | 3 | 3 | \- | 2 | 3 | 3 | \- | 2 | 2 | 3 | 3 |
+| TMP-376.2 | To study biomass production techniques | \- | 1 | 2 | 3 | 2 | 3 | 3 | \- | 2 | 3 | 3 | 3 |
+| TMP-376.3 | Analyze the working of different power generation system | 3 | 3 | 3 | \- | 3 | 2 | 3 | 2 | 2 | 2 | 3 | 3 |
+| TMP-376.4 | Understand the biodiesel and bio-hydrogen production techniques and Assessment of environmental aspect of bio energy | 3 | 2 | 3 | \- | 2 | 3 | 3 | 2 | 2 | 3 | 3 | 3 |
+| TMP-376 | 3 | 2 | 3 | 3 | 2 | 3 | 3 | 2 | 2 | 3 | 3 | 3 |
+| TMP-412 Tractor Design and Testing |
+| TMP-412.1 | Apply the knowledge of design procedure for various tractor systems, tractor seat and control | 3 | 3 | 2 | 1 | 2 | \- | 1 | 2 | 2 | 1 | 2 | 3 |
+| TMP-412.2 | Calculate the dimensions of various engine components, tractor seat and control | 3 | 3 | 3 | \- | 3 | 3 | 1 | 3 | 2 | 1 | 2 | 3 |
+| TMP-412.3 | Select the material of the engine component, appropriate number of gear selection of reduction for transmission, tyres and other important components of tractor | 3 | 2 | 3 | \- | 3 | 2 | 1 | 1 | 2 | 1 | 2 | 3 |
+| TMP-412.4 | Understand the importance of testing, types and testing procedure of various systems of tractors, tractor hitch hydraulic system | 3 | 2 | 2 | 2 | 3 | 2 | 1 | 1 | 2 | 3 | 2 | 3 |
+| TMP-412 | 3 | 3 | 3 | 2 | 3 | 2 | 1 | 2 | 2 | 2 | 2 | 3 |
+| TPF-242 Engineering Properties of Agricultural Produce |
+| TPF-242.1 | Understand the basics of engineering properties of foods | 3 | 2 | 3 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 1 | 2 |
+| TPF-242.2 | Analyse the design concepts for different food instruments / equipment | 3 | 3 | 3 | 2 | 2 | 1 | 2 | 2 | 2 | 2 | 1 | 2 |
+| TPF-242.3 | Implement the engineering properties in processing machines | 1 | 1 | 1 | 1 | 1 | 3 | 2 | 3 | 2 | 2 | 2 | 2 |
+| TPF-242 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 1 | 2 |
+| TPF -351 Post-Harvest Engg. of Cereals, Pulses & Oilseeds |
+| TPF-351.1 | To impart knowledge on various process technologies for cereals, pulses, oilseeds and their handling and conveying equipment | 3 | 1 | 2 | \- | 1 | 2 | 1 | 1 | 1 | 1 | \- | 2 |
+| TPF-352.2 | To understand the working principles and selection procedure of different machineries used for processing of cereals, pulses and oilseeds | 3 | 3 | 3 | 2 | 2 | 2 | 1 | 2 | 2 | 2 | 1 | \- |
+| TPF-353.3 | To compute different unit operations in processing, storage and value addition of cereals, pulses and oilseeds | 3 | 2 | 3 | 3 | 3 | 2 | 1 | 2 | 2 | 3 | 2 | 2 |
+| TPF-351.4 | To analyze the different uses of byproducts obtained from cereals, pulses and oilseed | 3 | 2 | 3 | 3 | 3 | 3 | 3 | 3 | 2 | 3 | 2 | 2 |
+| TPF 351 | 3 | 2 | 3 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 1 | 1 |
+| TPF-355 Agricultural Structures and Environmental Control |
+| TPF-355.1 | To know basics of design of various agricultural structures for animals and human beings. | 3 | 3 | 3 | 3 | 3 | 0 | 3 | 1 | 1 | 2 | 1 | 2 |
+| TPF-355.2 | Analyze impact of environmental, ecological and sanitation on livestock and human beings. | 3 | 2 | 3 | 2 | 2 | 1 | 0 | 2 | 1 | 2 | 3 | 1 |
+| TPF-355.3 | Compute cost of agricultural structures related to animals and human beings. | 2 | 3 | 2 | 3 | 1 | 1 | 1 | \- | 1 | 1 | 2 | 1 |
+| TPF-355.4 | Apply real world problems of planning, design and execution of agricultural structures related to animals and human beings | 3 | 2 | 3 | 1 | 2 | 2 | 0 | 3 | 1 | 2 | 3 | 2 |
+| TPF 355 | 3 | 3 | 3 | 2 | 2 | 1 | 1 | 2 | 1 | 2 | 2 | 2 |
+| TPF-362 Dairy and Food Engineering |
+| TPF-362.1 | Apply the knowledge of different unit operations in dairy industries | 3 | 2 | 1 | 1 | \- | 1 | 1 | 1 | \- | 1 | 1 | 1 |
+| TPF-362.2 | Analyse the dairy plant design problems | 3 | 3 | 3 | 2 | 3 | 3 | 2 | 3 | 3 | 3 | 3 | 2 |
+| TPF-362.3 | Compute the problems based on different unit operations | 3 | 3 | 3 | 3 | 3 | 1 | 1 | 3 | 3 | 2 | 2 | 1 |
+| TPF-362.4 | Understand the change in product behaviour during different unit operations | 3 | 2 | 3 | 3 | 2 | 3 | 3 | 3 | 3 | 2 | 2 | 3 |
+| TPF-362 | 3 | 3 | 3 | 2 | 2 | 2 | 2 | 3 | 2 | 2 | 2 | 2 |
+| TPF -466 Process Equipment Design |
+| TPF-466.1 | To acquires the knowledge of basics of process equipment design and important parameters of equipment design | 3 | 3 | 1 | 1 | \- | 1 | \- | 2 | 1 | 1 | 1 | 2 |
+| TPF-466.2 | To identify the appropriate numerical solutions used in equipment design | 3 | 3 | 3 | 2 | 2 | 1 | 1 | 2 | 2 | 3 | 2 | 2 |
+| TPF-466.3 | To understand the design procedure of food processing equipments. | 3 | 2 | 3 | 3 | 2 | 3 | 2 | 3 | 2 | 3 | 2 | 2 |
+| TPF-466.4 | To develop skill for advances/simulations in design | 3 | 2 | 3 | 3 | 3 | 1 | 2 | 3 | 3 | 2 | 3 | 2 |
+| TPF-466 | 1 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 |
+| TID -221 Irrigation Engineering |
+| TID- 221.1 | Compute the discharge at the head of distributaries required in its command, capacity of a reservoir, evapo-transpiration, irrigation requirement of crop, water requirement of crop, irrigation interval, irrigation period and irrigation efficiencies by applying the knowledge of crop period, crop area, duty, delta and irrigation intensity | 2 | 2 | 2 | 3 | 2 | \- | \- | 1 | 1 | 2 | 1 | \- |
+| TID-221.2 | Analyse the data related to irrigation water measurement through irrigation water measuring structures to estimate the discharge of water measuring structures such as weirs, flumes and notches. | 3 | 2 | 3 | 2 | 2 | 1 | \- | 1 | 1 | 2 | 2 | 1 |
+| TID-221.3 | Design the field channels, Regime Channels, border irrigation, fundamentals of check basin and furrow irrigation. | 2 | 3 | 2 | 3 | 1 | 1 | 1 | \- | 1 | 1 | \- | 1 |
+| TID-221.4 | Solve the real world problem of land grading by calculating the formation levels of grid points of a particular area where land grading operation is to be done | 3 | 1 | 2 | 1 | 2 | 2 | \- | 1 | 1 | 1 | 2 | \- |
+| TID-221 | 3 | 2 | 2 | 2 | 2 | 1 | \- | 1 | 1 | 2 | 1 | 1 |
+| TID -227, Building Material, Construction and Cost estimation |
+| TID-227.1 | Understand; the Building material: stones, lime, cement, Concrete, Sand wood and Timber, Glass, Rubber, Plastics, Metals and alloys Iron | 2 | 2 | 2 | 2 | 2 | \- | 1 | 1 | 1 | 1 | 1 | \- |
+| TID -227.2 | Identify; Bricks, Lintels, Arches, Stair case, floors, damp proofing and water proofing, plastering | 3 | 2 | 2 | 2 | 2 | 1 | 1 | 1 | 1 | 1 | 2 | 1 |
+| TID-227.3 | Design and construction, Agricultural building sloped and flat roof buildings | 2 | 3 | 2 | 3 | 1 | 2 | 1 | \- | 1 | 1 | \- | 1 |
+| TID-227.4 | Analysis; cost for controlling design, factor affecting building cost, measurement and pricing. | 3 | 2 | 3 | 1 | 2 | 2 | \- | 1 | 1 | 1 | 2 | \- |
+| TID-227 | 3 | 2 | 2 | 2 | 2 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+| TID -232, Sprinkler and micro irrigation system, 2020-21 |
+| TID -232.1 | Apply: basic understanding of Sprinkler irrigation: adaptability, problems and prospects, types of sprinkler irrigation systems. Micro Irrigation Systems: types-drip, spray, & bubbler systems, merits and demerits, different components. Filter cleaning, flushing & chemical treatment, Fertigation: advantages and limitations of fertigation, fertilizers solubility and their compatibility, precautions for successful fertigation system, fertigation frequency, duration and injection | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 |
+| TID -232.2 | Compute: uniformity coefficient and pattern efficiency, wetting patterns, irrigation requirement, emitter selection, hydraulics of drip irrigation system, necessary steps for proper operation of a drip irrigation and sprinkler systems | 3 | 3 | 2 | 2 | 2 | 1 | 2 | 1 | 1 | 1 | 2 | 2 |
+| TID-232.3 | Analyse: performance evaluation of sprinkler and drip irrigation systems. necessary steps for proper operation of a drip irrigation system; maintenance of micro irrigation system: clogging problems. selection of pump and power unit for sprinkler and drip irrigation system. | 3 | 3 | 3 | 2 | 2 | 1 | 2 | 1 | 1 | 1 | 1 | 2 |
+| TID-232.4 | Design: sprinkler and drip irrigation system: Main, Sub-main, Lateral | 3 | 3 | 3 | 2 | 2 | 1 | 2 | 1 | 1 | 1 | 1 | 2 |
+| TID-232 | 3 | 3 | 2 | 2 | 2 | 2 | 2 | 2 | 1 | 2 | 2 | 2 |
+| TID - 353 Drainage Engineering |
+| TID353-1 | Apply: basic understanding of impact of Water logging objectives of drainage, familiarization with drainage problems of India and state; sub-surface drainage: purpose and benefits, | 3 | 3 | 3 | 3 | 2 | \- | \- | \- | \- | 1 | 1 | 1 |
+| TID353-2 | Compute: different drainage design parameters-hydraulic conductivity, drainable porosity, water table observation wells and piezometers. | 3 | 3 | 2 | 2 | 2 | 1 | 1 | 1 | \- | 1 | 1 | 1 |
+| TID353-3 | Analyse Hooghoudt, Ernst drain spacing equations drainage materials, drainage pipes, drain envelope layout, construction & installation of drains; drainage structures; vertical drainage; bio-drainage; mole drains reclamation of saline & alkaline soils. Cost analysis of surface & sub-surface systems | 2 | 3 | 2 | 3 | 3 | 1 | 2 | 1 | \- | 1 | \- | 1 |
+| TID353-4 | Design: surface and subsurface drainage systems as well as gravel envelop for different soil and water conditions and conjunctive use of fresh and saline water | 3 | 2 | 3 | 1 | 2 | \- | \- | \- | 1 | 1 | 1 | 2 |
+| TID-353 | 3 | 3 | 3 | 2 | 2 | 1 | 1 | 1 | 0 | 1 | 1 | 1 |
+| TID -362, Ground water wells and pumps 2020-21 |
+| TID362.1 | Study of the Occurrence and movement of ground water and their classification; water lifting devices and their classification. | 3 | 2 | 3 | 3 | 1 | 2 | 1 | 1 | 0 | 0 | 0 | 0 |
+| TID362.2 | Apply the knowledge of ground water movement and pumps in computation of aquifer parameters and pumping,parameters, respectively. | 3 | 2 | 2 | 2 | 1 | 2 | 1 | 1 | 0 | 0 | 0 | 0 |
+| TID 362.3 | Analyze well test data for determination of aquifer parameters; and pumping data for Efficiencies, performance, power requirement of different types of pumps | 3 | 3 | 2 | 2 | 2 | 2 | 1 | 1 | 1 | 0 | 0 | 0 |
+| TID362.4 | Design of wells (open and tube well);different types of pumps (radial pump impeller, volute and diffuser casings) | 3 | 3 | 2 | 2 | 2 | 2 | 1 | 1 | 1 | 0 | 0 | 0 |
+| TID-362 | 3 | 3 | 2 | 2 | 2 | 2 | 1 | 1 | 1 | 0 | 0 | 0 |
+| TID-423 ENVIRONMENTAL ENGINEERING |
+| TID-423.1 | Use the techniques for analyzing the meteorology, water supply and sanitation and can apply the knowledge in solving the real time problems of dispersion of pollution, and waste water disposal, treatment and recycling | 3 | 2 | 2 | 3 | 3 | 3 | \- | \- | 2 | 2 | 2 | \- |
+| TID-423.2 | Compute the ground concentration of air pollutant, water supply and sanitation requirement for a habitat | 2 | 2 | 2 | 2 | 2 | 3 | \- | \- | 2 | 2 | 2 | \- |
+| TID-423.3 | Analyze the effect of air and water pollution on ecosystem, waste water quantities and methodologies for safe disposal of sewage | 2 | 2 | 2 | 2 | 2 | 2 | \- | \- | 2 | 3 | 2 | \- |
+| TID-423.4 | Design the industrial stake, water treatment plants and sewerage system for a habitat | 2 | 2 | 3 | 2 | 2 | 2 | \- | \- | 3 | 2 | 2 | \- |
+| TID-423 |  |  |  |  |  |  |  |  |  |  |  |  |
+
+Title: : College of Technology ::.
+
+URL Source: http://www.gbpuat-tech.ac.in/AgricultureEngg.php?id=4
+
+Markdown Content:
+.:: College of Technology ::.
+===============
+
+Laboratories and Workshops
+--------------------------
+
+| Sr.No. | Name of Laboratories | Area (m2) | Farm Facilities/ Other Instructional Units |
+| --- | --- | --- | --- |
+| 1. | Language Communication & Skill Development Lab | 90.00 | University Farm, Crop Research Centre, Vegetable Research Centre, Horticulture Research Centre are the other major facilities available centrally for conduct of research and teaching of PG and Ph.d. Students |
+| 2. | Central Computing Facility | 1064.00 |
+| 3. | Workshop | 1672.54 |
+| 4. | Hydraulics Lab | 640.00 |
+| 5. | Structure Lab | 298.00 |
+| 6. | Survey Lab | 55.00 |
+| 7. | Refrigeration & Air Conditioning Lab | 152.80 |
+| 8. | Electronics Lab | 153.00 |
+| 9. | Applied Electricity Lab | 63.46 |
+
+  
+  
+
+### Portals
+
+*   [Pantnagar Technology Alumni Association](http://ptaa-gbpuat.com/)
+*   [AMS Portal](https://gbpuat.auams.in/)
+*   [Web mail](https://mail.gbpuat.ac.in/)
+*   [Engineering & Technology Society](http://www.gbpuat-tech.ac.in/ETS/index.html)
+
+### Useful Links
+
+*   [Google Map](https://www.google.com/maps/place/College+of+Technology+Pantnagar/@29.0229292,79.4914002,15z/data=!4m5!3m4!1s0x0:0x4826889a43f07995!8m2!3d29.0229292!4d79.4914002)
+*   [IPMC](https://gbpuat.ac.in/ipmc/index.html)
+*   [Telephone Directory](https://gbpuat.ac.in/contact/index.html)
+*   [Placement Notice](http://www.gbpuat-tech.ac.in/placement.php?id=2)
+
+*   [Alumni](http://www.gbpuat-tech.ac.in/alumni.php)
+*   [GIAN](https://gbpuat.ac.in/gian/index.html)
+*   [Pantnagar Technology Alumni Association](http://www.gbpuat-tech.ac.in/ptaa.php?id=1)
+*   [Leave Management System](http://www.gbpuat-tech.ac.in/LMS/login.php)
+
+### Facilities
+
+*   [CCF](https://gbpuat.ac.in/facility/CCF/index.html)
+*   [Garden Section](https://gbpuat.ac.in/facility/garden/index.html)
+*   [Security Office](https://gbpuat.ac.in/facility/security_office/index.html)
+*   [University Farm](https://gbpuat.ac.in/facility/farm/index.html)
+
+*   [University Guest House](https://gbpuat.ac.in/guest_house/index.html)
+*   [University Hospital](https://gbpuat.ac.in/facility/hospital/index.html)
+*   [University Library](https://gbpuat.ac.in/facility/library/index.html)
+*   [Internal Notices and Circulars](http://www.gbpuat-tech.ac.in/announcement.php?id=1)
+
+  
+**College of Technology**  
+Govind Ballabh Pant University of Agriculture and Technology,  
+Pantnagar, Udham Singh Nagar,  
+Uttarakhand 263145.  
+  
+: 05944-233338  
+Fax: 05944-233338  
+deanctoffice@gmail.com
+
+  
+  
+
+![Image 2: target](http://www.gbpuat-tech.ac.in/img/target.png)
+
+**Disclaimer:** The facts published on this website are for immediate information only and no legal claim can be made for any damage caused by using the content of this site. The College of Technology reserves the right to change the information published on this site at any point of time without prior or further notification. The correct details regarding Posts/Vacancies/Designation/Publications etc. pertaining to the user’s queries are to be provided by C.P.O. office/Concerned Unit Office after its verification.
+
+*   [](https://www.facebook.com/)
+*   [](https://twitter.com/)
+*   [](https://plus.google.com/)
+*   [](https://www.linkedin.com/)
+*   [](https://www.pinterest.com/)
+*   [](https://www.youtube.com/)
+
+
+Title: : College of Technology ::.
+
+URL Source: http://www.gbpuat-tech.ac.in/AgricultureEngg.php?id=2
+
+Department of Agricultural Engineering Faculty
+----------------------------------------------
+
+![Image 1](http://www.gbpuat-tech.ac.in/online/images/25.02.2021_1614245600454.jpg)
+
+**[Dr. TRIVENI PRASAD SINGH](http://www.gbpuat-tech.ac.in/complete_profile.php?id=71)**    
+**Web Address** : [Click Here](http://www.gbpuat-tech.ac.in/AgricultureEngg.php?id=2#)  
+**Email-id**: tpsingh\_62@yahoo.co.in  
+**Qualification**: Ph.D.  
+**Designation**: Professor & Head  
+**Research Interests**: Precision Tillage and Seeding Machineries
+
+![Image 2](http://www.gbpuat-tech.ac.in/online/images/16.08.2021_1629095632412.jpg)
+
+**[Dr. P. K.Omre](http://www.gbpuat-tech.ac.in/complete_profile.php?id=72)**  
+**Web Address** : [Click Here](http://www.gbpuat-tech.ac.in/AgricultureEngg.php?id=2#)  
+**Email-id**: pkomre@gmail.com  
+**Qualification**: Ph.D  
+**Designation**: Professor & Head  
+**Research Interests**: Process and Food engineering ,design development, product development
+
+![Image 3](http://www.gbpuat-tech.ac.in/online/images/26.11.2020_160636647667.jpg)
+
+**[Dr. R. P. Singh](http://www.gbpuat-tech.ac.in/complete_profile.php?id=135)**  
+**Web Address** : [Click Here](http://www.gbpuat-tech.ac.in/AgricultureEngg.php?id=2#)  
+**Email-id**: rajprasin1@rediffmail.com  
+**Qualification**: M. Tech (IIT Kharagpur, year 1984), Ph.D (IIT Kharagpur, year 1993)  
+**Designation**: Professor & Head  
+**Research Interests**: Sprinkler and Drip Irrigation Systems Design, design and operation of centrifugal pumping systems.
+
+![Image 4](http://www.gbpuat-tech.ac.in/online/images/25.03.2021_1616667637915.jpg)
+
+**[Dr. Anil Kumar](http://www.gbpuat-tech.ac.in/complete_profile.php?id=125)**  
+**Web Address** : [Click Here](http://www.gbpuat-tech.ac.in/AgricultureEngg.php?id=2#)  
+**Email-id**: anilkumar\_swce61@rediffmail.com  
+**Qualification**: B.Tech.; M.Tech.; Ph.D.  
+**Designation**: Professor & Head  
+**Research Interests**: Soil and Water Conservation Engineering
+
+![Image 5](http://www.gbpuat-tech.ac.in/online/images/20.12.2020_1608462104694.jpg)
+
+**[Dr. YOGENDRA KUMAR](http://www.gbpuat-tech.ac.in/complete_profile.php?id=119)**  
+**Web Address** : [Click Here](http://www.gbpuat-tech.ac.in/AgricultureEngg.php?id=2#)  
+**Email-id**: ykumarct@yahoo.co.in  
+**Qualification**: Ph. D. (Irrigation and Drainage Engineering)  
+**Designation**: Professor  
+**Research Interests**: Ground water studies , Ground water modeling, Drainage Engg, Irrigation Water Management
+
+![Image 6](http://www.gbpuat-tech.ac.in/online/images/26.02.2021_1614318783878.jpg)
+
+**[Dr. Raj N Pateriya](http://www.gbpuat-tech.ac.in/complete_profile.php?id=158)**  
+**Web Address** : [Click Here](http://www.gbpuat-tech.ac.in/AgricultureEngg.php?id=2#)  
+**Email-id**: rnpateriya4@gmail.com  
+**Qualification**: Ph.D.  
+**Designation**: Professor  
+**Research Interests**: 1.Bio energy 2. Conservation & Prescision Agricultural machineries and 3. Ergonomics
+
+![Image 7](http://www.gbpuat-tech.ac.in/online/images/16.02.2021_1613461301460.jpg)
+
+**[Dr. N. C. Shahi (On Deputation)](http://www.gbpuat-tech.ac.in/complete_profile.php?id=149)**  
+**Web Address** : [Click Here](http://www.gbpuat-tech.ac.in/AgricultureEngg.php?id=2#)  
+**Email-id**: ncshahi2008@gmail.com  
+**Qualification**: Ph. D. (Process and Food Engineering)  
+**Designation**: Professor  
+**Research Interests**: Process Equipment Design and Development, Biomass Conversion and Utilization
+
+![Image 8](http://www.gbpuat-tech.ac.in/online/images/27.02.2021_1614417488785.jpg)
+
+**[Dr. Jayant Singh](http://www.gbpuat-tech.ac.in/complete_profile.php?id=145)**  
+**Web Address** : [Click Here](http://www.gbpuat-tech.ac.in/AgricultureEngg.php?id=2#)  
+**Email-id**: jayantsingh07@gmail.com  
+**Qualification**: Ph.D.  
+**Designation**: Professor  
+**Research Interests**: Renewable Energy, Draft Animal Power & Farm Equipments
+
+![Image 9](http://www.gbpuat-tech.ac.in/online/images/03.03.2021_1614756360973.jpg)
+
+**[Dr. Arun Kumar](http://www.gbpuat-tech.ac.in/complete_profile.php?id=136)**  
+**Web Address** : [Click Here](http://www.gbpuat-tech.ac.in/AgricultureEngg.php?id=2#)  
+**Email-id**: arunkumar@gbpuat-tech.ac.in  
+**Qualification**: Ph.D.  
+**Designation**: Professor  
+**Research Interests**: Farm mechanization, Agril. residue Management, precision agriculture, Design and development of farm machines
+
+![Image 10](http://www.gbpuat-tech.ac.in/online/images/14.02.2021_161328924045.jpg)
+
+**[Dr. Vinod Kumar](http://www.gbpuat-tech.ac.in/complete_profile.php?id=134)**  
+**Web Address** : [Click Here](http://www.gbpuat-tech.ac.in/AgricultureEngg.php?id=2#)  
+**Email-id**: doctor\_balyan@yahoo.co.in  
+**Qualification**: Ph.D. (Irrigation & Drainage Engineering)  
+**Designation**: Professor  
+**Research Interests**: Irrigation & Drainage Engineering
+
+![Image 11](http://www.gbpuat-tech.ac.in/online/images/26.11.2020_1606385816671.jpg)
+
+**[Dr. Pramod Kumar Singh](http://www.gbpuat-tech.ac.in/complete_profile.php?id=118)**  
+**Web Address** : [Click Here](http://www.gbpuat-tech.ac.in/AgricultureEngg.php?id=2#)  
+**Email-id**: singhpk67@gmail.com  
+**Qualification**: Ph.D  
+**Designation**: Professor  
+**Research Interests**: Micro Irrigation and Protected Cultivation
+
+![Image 12](http://www.gbpuat-tech.ac.in/online/images/28.11.2020_1606556370809.jpg)
+
+**[Dr. Harish Chandra](http://www.gbpuat-tech.ac.in/complete_profile.php?id=113)**  
+**Web Address** : [Click Here](http://www.gbpuat-tech.ac.in/AgricultureEngg.php?id=2#)  
+**Email-id**: hcverma\_ct@yahoo.co.in  
+**Qualification**: Ph. D.  
+**Designation**: Professor  
+**Research Interests**: Water Management, Irrigation and Drainage Engineering,
+
+![Image 13](http://www.gbpuat-tech.ac.in/online/images/user.png)
+
+**[asd](http://www.gbpuat-tech.ac.in/complete_profile.php?id=243)**  
+**Web Address** : [Click Here](http://www.gbpuat-tech.ac.in/AgricultureEngg.php?id=2#)  
+**Email-id**: google@triots.com  
+**Qualification**:  
+**Designation**: Professor  
+**Research Interests**:
+
+![Image 14](http://www.gbpuat-tech.ac.in/online/images/15.08.2021_1629045269586.jpg)
+
+**[Dr. P. S. KASHYAP](http://www.gbpuat-tech.ac.in/complete_profile.php?id=101)**  
+**Web Address** : [Click Here](http://www.gbpuat-tech.ac.in/AgricultureEngg.php?id=2#)  
+**Email-id**: pskashyap@gmail.com  
+**Qualification**: Ph.D.  
+**Designation**: Professor  
+**Research Interests**: Water management, Natural Resource management, Soil and water conservation
+
+![Image 15](http://www.gbpuat-tech.ac.in/online/images/27.11.2020_1606457728130.jpg)
+
+**[Dr. shiv kumar](http://www.gbpuat-tech.ac.in/complete_profile.php?id=68)**  
+**Web Address** : [Click Here](http://www.gbpuat-tech.ac.in/AgricultureEngg.php?id=2#)  
+**Email-id**: shivct@yahoo.co.in  
+**Qualification**: Ph.D. ( Irrigation and Drainage Engineering)  
+**Designation**: Professor  
+**Research Interests**: Ground Water, Well Hydraulics, Agricultural Irrigation and Drainage Engineering
+
+![Image 16](http://www.gbpuat-tech.ac.in/online/images/13.02.2021_1613237975928.jpg)
+
+**[Dr. Pankaj Kumar](http://www.gbpuat-tech.ac.in/complete_profile.php?id=78)**  
+**Web Address** : [Click Here](http://www.gbpuat-tech.ac.in/AgricultureEngg.php?id=2#)  
+**Email-id**: pankaj591@gmail.com  
+**Qualification**: Ph.D.  
+**Designation**: Associate Professor  
+**Research Interests**: Hydrological Modelling, Water Resource Management, Geoinformatics, Watershed Management
+
+![Image 17](http://www.gbpuat-tech.ac.in/online/images/14.12.2020_1607923226465.jpg)
+
+**[Dr. Dheeraj Kumar](http://www.gbpuat-tech.ac.in/complete_profile.php?id=70)**  
+**Web Address** : [Click Here](http://www.gbpuat-tech.ac.in/AgricultureEngg.php?id=2#)  
+**Email-id**: dheerajtejwan@gmail.com  
+**Qualification**: Ph.D  
+**Designation**: Associate Professor  
+**Research Interests**: Ground water pollution, Irrigation Engineering
+
+![Image 18](http://www.gbpuat-tech.ac.in/online/images/user.png)
+
+**[Head](http://www.gbpuat-tech.ac.in/complete_profile.php?id=155)**  
+**Web Address** : [Click Here](http://www.gbpuat-tech.ac.in/AgricultureEngg.php?id=2#)  
+**Email-id**: uwmctesting@gmail.com  
+**Qualification**:  
+**Designation**: Department of Soil Water & Conservation  
+**Research Interests**:
+
+![Image 19](http://www.gbpuat-tech.ac.in/online/images/29.04.2020_1588143218141.jpg)
+
+**[Dr Arvind Singh Tomar](http://www.gbpuat-tech.ac.in/complete_profile.php?id=46)**  
+**Web Address** : [Click Here](http://www.gbpuat-tech.ac.in/AgricultureEngg.php?id=2#)  
+**Email-id**: arvindstomar.ide@gbpuat-tech.ac.in  
+**Qualification**: Ph.D. (Irrigation & Drainage Engineering)  
+**Designation**: Associate Professor  
+**Research Interests**: Agricultural Climatology, DSS, GIS, Microirrigation, NRM, RS
+
+![Image 20](http://www.gbpuat-tech.ac.in/online/images/26.09.2020_1601102269965.png)
+
+**[Dr. Deepak Kumar](http://www.gbpuat-tech.ac.in/complete_profile.php?id=60)**  
+**Web Address** : [Click Here](http://www.gbpuat-tech.ac.in/AgricultureEngg.php?id=2#)  
+**Email-id**: deepak.swce.cot.gbpuat@gmail.com  
+**Qualification**: PhD from IIT Delhi  
+**Designation**: Assistant Professor  
+**Research Interests**: WATER RESOURCE ENGINEERING
+
+![Image 21](http://www.gbpuat-tech.ac.in/online/images/09.11.2020_1604897366622.jpg)
+
+**[Dr. Mohan Lal](http://www.gbpuat-tech.ac.in/complete_profile.php?id=193)**  
+**Web Address** : [Click Here](http://www.gbpuat-tech.ac.in/AgricultureEngg.php?id=2#)  
+**Email-id**: mohan841987@gmail.com  
+**Qualification**: Ph.D  
+**Designation**: Assistant Professor  
+**Research Interests**: Water Resources Engineering, Hydrological modelling
+
+![Image 22](http://www.gbpuat-tech.ac.in/online/images/22.10.2020_1603359650473.jpg)
+
+**[Dr. sachin kumar](http://www.gbpuat-tech.ac.in/complete_profile.php?id=163)**  
+**Web Address** : [Click Here](http://www.gbpuat-tech.ac.in/AgricultureEngg.php?id=2#)  
+**Email-id**: sachin29319@gmail.com  
+**Qualification**: Pursuing Ph.D  
+**Designation**: Assistant Professor  
+**Research Interests**: Process and Food Engineering
+
+![Image 23](http://www.gbpuat-tech.ac.in/online/images/28.02.2021_1614515137442.jpg)
+
+**[Dr. MANISH DAK](http://www.gbpuat-tech.ac.in/complete_profile.php?id=159)**  
+**Web Address** : [Click Here](http://www.gbpuat-tech.ac.in/AgricultureEngg.php?id=2#)  
+**Email-id**: manish\_dak@yahoo.com  
+**Qualification**: Ph.D  
+**Designation**: Assistant Professor  
+**Research Interests**: Dairy and Food Engineering
+
+![Image 24](http://www.gbpuat-tech.ac.in/online/images/11.01.2021_1610363682584.jpg)
+
+**[Dr. Praveen Vikram Singh](http://www.gbpuat-tech.ac.in/complete_profile.php?id=129)**  
+**Web Address** : [Click Here](http://www.gbpuat-tech.ac.in/AgricultureEngg.php?id=2#)  
+**Email-id**: er.pvsingh@gmail.com  
+**Qualification**: Ph D  
+**Designation**: Senior Research Officer  
+**Research Interests**: Soil and Water Conservation Engineering
+
+![Image 25](http://www.gbpuat-tech.ac.in/online/images/27.06.2020_1593250678200.jpg)
+
+**[Dr. Khan Chand](http://www.gbpuat-tech.ac.in/complete_profile.php?id=172)**  
+**Web Address** : [Click Here](http://www.gbpuat-tech.ac.in/AgricultureEngg.php?id=2#)  
+**Email-id**: kcphpfe@gmail.com  
+**Qualification**:  
+**Designation**: Junior Research Officer  
+**Research Interests**:
+
+![Image 26](http://www.gbpuat-tech.ac.in/online/images/user.png)
+
+**[Thandokuhle Sithole](http://www.gbpuat-tech.ac.in/complete_profile.php?id=126)**  
+**Web Address** : [Click Here](http://www.gbpuat-tech.ac.in/AgricultureEngg.php?id=2#)  
+**Email-id**: kuhlesithole@outlook.com  
+**Qualification**:  
+**Designation**: Junior Research Officer  
+**Research Interests**:
+
+![Image 27](http://www.gbpuat-tech.ac.in/online/images/16.02.2021_1613446518149.jpg)
+
+**[Dr. Umesh C Lohani](http://www.gbpuat-tech.ac.in/complete_profile.php?id=104)**  
+**Web Address** : [Click Here](http://www.gbpuat-tech.ac.in/AgricultureEngg.php?id=2#)  
+**Email-id**: ulohani@gmail.com  
+**Qualification**: PhD  
+**Designation**: Junior Research Officer  
+**Research Interests**: Food Process Engineering
+
+![Image 28](http://www.gbpuat-tech.ac.in/online/images/user.png)
+
+**[Lutfian](http://www.gbpuat-tech.ac.in/complete_profile.php?id=277)**  
+**Web Address** : [Click Here](http://www.gbpuat-tech.ac.in/AgricultureEngg.php?id=2#)  
+**Email-id**: sekinmoskop152@gmail.com  
+**Qualification**:  
+**Designation**: Junior Research Officer  
+**Research Interests**:
+
+![Image 29](http://www.gbpuat-tech.ac.in/online/images/user.png)
+
+**[tMtFQiRt](http://www.gbpuat-tech.ac.in/complete_profile.php?id=257)**  
+**Web Address** : [Click Here](http://www.gbpuat-tech.ac.in/AgricultureEngg.php?id=2#)  
+**Email-id**:  
+**Qualification**:  
+**Designation**: Teaching Personnel  
+**Research Interests**:
+
+![Image 30](http://www.gbpuat-tech.ac.in/online/images/user.png)
+
+**[asas](http://www.gbpuat-tech.ac.in/complete_profile.php?id=269)**  
+**Web Address** : [Click Here](http://www.gbpuat-tech.ac.in/AgricultureEngg.php?id=2#)  
+**Email-id**: mawaxim449@bulatox.com  
+**Qualification**:  
+**Designation**: Professor & Head  
+**Research Interests**:
+
+**Disclaimer:** The facts published on this website are for immediate information only and no legal claim can be made for any damage caused by using the content of this site. The College of Technology reserves the right to change the information published on this site at any point of time without prior or further notification. The correct details regarding Posts/Vacancies/Designation/Publications etc. pertaining to the user’s queries are to be provided by C.P.O. office/Concerned Unit Office after its verification.

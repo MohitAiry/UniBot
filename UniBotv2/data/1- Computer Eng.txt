@@ -1,0 +1,202 @@
+Title: : College of Technology ::.
+
+URL Source: http://www.gbpuat-tech.ac.in/computerEngg.php?id=1
+
+Markdown Content:
+About Department
+----------------
+
+![Image 1: Head Computer Engg.](http://www.gbpuat-tech.ac.in/img/faculty/sds.jpg)  
+**Dr. S. D. Samantaray**  
+Prof. & Head  
+Department of Computer Engineering
+
+The B.Tech (Computer Engineering) Programme was started in 1984 in the erstwhile department of Electrical Engineering. The separate Department of Computer Engineering came into existence in 1993. existence through the trifurcation of the Electrical Engineering department. The Department of Computer Engineering, College of Technology offers two programmes viz. B.Tech. (Computer Engineering) and M.Tech. (Computer Engineering). Ever since it’s inception the department has set high standards for itself. Both the faculty members and students continuously strive to achieve the set objectives. The faculty with its experienced, sincere and hard working members has been a constant source of inspiration and encouragement to the students. The Curriculum is modified on a regular basis to meet the requirements and expectations of industry. Adequate emphasis has been given on improving the innovation, creativity, practical knowledge and programming skills.
+
+#### **Degree Program Offered**
+
+The Courses are as follows :
+
+*   B.Tech (4 Years Program)
+*   M.Tech (2 Years Program)
+*   Ph.D.
+  
+
+#### **Program Outcomes (POs)**
+
+**PO-1:** Apply knowledge of mathematics, science, engineering fundamentals and an engineering specialization to the solution of complex engineering problems.
+
+**PO-2:** Identify, formulate, research, literature and analyze complex engineering problems reaching substantiated conclusions using first principles of mathematics and engineering sciences.
+
+**PO-3:** Design solutions for complex engineering problems and design system, components or processes that meet specified needs with appropriate consideration for public health and safety cultural, societal and environmental considerations.
+
+**PO-4:** Conduct investigation of complex problems using research- based knowledge and research methods including design of experiments, analysis and interpretation of data and synthesis of information to provide valid conclusion.
+
+**PO-5:** Create, select and apply appropriate techniques, resources and modern engineering and IT tools, including prediction and modelling, to complex engineering activities, with an understanding of the limitations.
+
+**PO-6:** Apply reasoning informed by contextual knowledge to assess societal, health, safety, legal and cultural issues and the consequent responsibilities relevant to professional engineering practice.
+
+**PO-7:** Understand the impact of professional engineering solution in societal and environmental contexts and demonstrate knowledge of and need for sustainable development.
+
+**PO-8:** Apply ethical principles and commitment to professional ethics and responsibilities and norms of engineering practice.
+
+**PO-9:** Function effectively as an individual, and as a member or leader in diverse teams and in multidisciplinary settings.
+
+**PO-10:** Communicate effectively on complex engineering activities with the engineering community and with society at large, such as being able to comprehend and write effective reports and design documentation, make effective presentations, and give and receive clear instructions.
+
+**PO-11:** Demonstrate knowledge and understanding of engineering and management principle and apply these to one’s own work, as a member and leader in a team, to manage projects and in multidisciplinary environments.
+
+**PO-12:** Recognize the need for and have the preparation and ability to engage in independent and life – long learning in the broadest context of technological change.
+
+#### **Few Accomplishments**
+
+*   Students Working in top computer firms like Apple, Microsoft, IBM, Adobe, HCL, Cisco, TCS, etc.
+*   Research facilities including Blade server, workstations, all-in-one Pc's, Independent work space for PG students
+*   Faculty published paper in reputed journals like springer, wiley etc.
+*   Alumini include IAS, Directors and Key position holders in India & Abroad
+*   Ongoing student projects in the area of WSNs, Image processing and Energy
+*   Ongoing AICTE MODROB project on unified communication and cyber security Lab
+*   Top AIEEE merit rankers and school toppers opted the branch in last counseling
+
+
+Title: : College of Technology ::.
+
+URL Source: http://www.gbpuat-tech.ac.in/computerEngg.php?id=4
+
+
+
+Department Laboratory Details
+-----------------------------
+
+| S.N. | Lab Name | Name of the Program Curriculum/Courses Used for | Image Link |
+| --- | --- | --- | --- |
+| 1. | Software Lab | Data Structures, Computational Scientific Tool, Image Processing, Compiler Design, Design & Analysis of Algorithms | [![Image 1: Not Available](http://www.gbpuat-tech.ac.in/img/CS_Lab/software_lab.jpg)](http://www.gbpuat-tech.ac.in/img/CS_Lab/software_lab.jpg) |
+| 2. | Computer Network and Data Communication Lab | Computer Networks | [![Image 2: Not Available](http://www.gbpuat-tech.ac.in/img/CS_Lab/cn_lab.jpg)](http://www.gbpuat-tech.ac.in/img/CS_Lab/cn_lab.jpg) |
+| 3. | Open Source Lab | \---- | [![Image 3: Not Available](http://www.gbpuat-tech.ac.in/img/CS_Lab/opensource.jpg)](http://www.gbpuat-tech.ac.in/img/CS_Lab/opensource.jpg) |
+| 4. | Graphics and Multimedia Lab | Multimedia Technology | [![Image 4: Not Available](http://www.gbpuat-tech.ac.in/img/CS_Lab/lab4.jpg)](http://www.gbpuat-tech.ac.in/img/CS_Lab/lab4.jpg) |
+| 5. | Computer Architecture Lab | \---- | [![Image 5: Not Available](http://www.gbpuat-tech.ac.in/img/CS_Lab/lab4.jpg)](http://www.gbpuat-tech.ac.in/img/CS_Lab/lab4.jpg) |
+| 6. | Information Technology Lab | Computer Communication Systems, Programming for Problem Solving | [![Image 6: Not Available](http://www.gbpuat-tech.ac.in/img/CS_Lab/iwt_lab.jpg)](http://www.gbpuat-tech.ac.in/img/CS_Lab/iwt_lab.jpg) |
+| 7. | Digital Logic Lab | Computer Organization & Architecture | [![Image 7: Not Available](http://www.gbpuat-tech.ac.in/img/CS_Lab/digital_logic_lab.jpg)](http://www.gbpuat-tech.ac.in/img/CS_Lab/digital_logic_lab.jpg) |
+| 8. | Microprocessor Lab | Digital Electronics | [![Image 8: Not Available](http://www.gbpuat-tech.ac.in/img/CS_Lab/microprocessor_lab.jpg)](http://www.gbpuat-tech.ac.in/img/CS_Lab/microprocessor_lab.jpg) |
+| 9. | Main System and Server Lab And Console | \---- | [![Image 9: Not Available](http://www.gbpuat-tech.ac.in/img/CS_Lab/server_lab.jpeg)](http://www.gbpuat-tech.ac.in/img/CS_Lab/server_lab.jpeg) |
+| 10. | Internet and Web Technology Lab | \---- | [![Image 10: Not Available](http://www.gbpuat-tech.ac.in/img/CS_Lab/iwt_lab.jpg)](http://www.gbpuat-tech.ac.in/img/CS_Lab/iwt_lab.jpg) |
+| 11. | DBMS & Knowledge and Data Engineering Lab | Microprocessor, Computer Organization & Architecture, File Organization & Processing | [![Image 11: Not Available](http://www.gbpuat-tech.ac.in/img/CS_Lab/dbms_lab.jpg)](http://www.gbpuat-tech.ac.in/img/CS_Lab/dbms_lab.jpg) |
+| 12. | Automation Lab | \---- | [![Image 12: Not Available](http://www.gbpuat-tech.ac.in/img/CS_Lab/automation.jpg)](http://www.gbpuat-tech.ac.in/img/CS_Lab/automation.jpg) |
+| 13. | Computer Center | \---- | [![Image 13: Not Available](http://www.gbpuat-tech.ac.in/img/CS_Lab/cisco2.jpg)](http://www.gbpuat-tech.ac.in/img/CS_Lab/cisco2.jpg) |
+| 14. | PG Lab | Computational Intelligence and Soft Computing, Advanced Computer Networks, Object Oriented Modeling and Design, Advanced DBMS, Computer Modeling and Simulation | [![Image 14: Not Available](http://www.gbpuat-tech.ac.in/img/CS_Lab/pg_lab.jpeg)](http://www.gbpuat-tech.ac.in/img/CS_Lab/pg_lab.jpeg) |
+| 15. | Computational Intelligence and Informatics Lab | Project All | [![Image 15: Not Available](http://www.gbpuat-tech.ac.in/img/CS_Lab/software.jpg)](http://www.gbpuat-tech.ac.in/img/CS_Lab/4.jpg) |
+
+  
+
+##### List of Equipments and Softwares available in Department
+
+| S.No. | Item with Specification | Availability Place |
+| --- | --- | --- |
+|  | High Performance (Blade Server) (Dell) with accessory, power supply, fiber switch, dell power edge, brocade, SAN switch, 42 U rack, KVM switch, PDU box, PDU distribution, cables & DVD writer | PG Lab |
+|  | Server (Dell) AS-PE2900-DGL (03 Nos.) | Main System & Server Lab |
+|  | HP Z2 Workstation, RAM 16GB, HDD-2TB, HP N246v Monitor with keyboard & Mouse | Automation Lab |
+|  | Lenovo Graphics Workstation/Think Station (10 Nos.) | CI&I Lab |
+|  | Dell Computer Desktop Optiplex 5070 (40 Nos.) | Software/I.T. Lab |
+|  | Desktop Computer (HLBS-CM44) Core i 5 Gen-12, RAM 8GB, SSD Capacity-512GB, Monitor 21.5" & Keyboard, Mouse (24 Nos.) | DBMS Lab |
+|  | SENSEnuts Pro Lab kit (loT)  
+1\. SENSEnuts Mesh low power wireless radio — 30 Nos.  
+2\. Gateway Module- USB with cable — 10 Nos.  
+3\. Gateway Module- Wi-Fi — 01 No.  
+4\. TL Sensor (Temp. & Light) -- 10 Nos.  
+5\. HTP Sensor (Humidity, Temp. & Pressure) — 05 Nos.  
+6\. GAP Sensor Module (GPS Accelerometer, PIR) — 02 Nos.  
+7\. PIR Sensor Module — 02 Nos.  
+8\. Pin Extender Module — 05 Nos.  
+9\. Associated software Toolchain — 01 No. | Automation Lab |
+|  | Microprocessor Trainer Kit Advance 8085 | Microprocessor Lab |
+|  | Microprocessor Trainer Kit Low Cost 8085 | Microprocessor Lab |
+|  | Microprocessor Trainer Kit Advance 8086/88 | Microprocessor Lab |
+|  | Microprocessor Trainer Kit Low Cost 8086 | Microprocessor Lab |
+|  | Basic Logic gates N1 | Digital Logic Lab |
+|  | Verification of Boolean Expressions N2 | Digital Logic Lab |
+|  | Half/Full Adder Sub tractor N3 | Digital Logic Lab |
+|  | R-S/D/T flip flops N4 | Digital Logic Lab |
+|  | JK Flip Flops N5 | Digital Logic Lab |
+|  | Master Slaves JK Flip Flops N6 | Digital Logic Lab |
+|  | Nand Gate Encoder N8 | Digital Logic Lab |
+|  | BCD -7 Segment Decoder N 10 | Digital Logic Lab |
+|  | Decade Counter & 7 Segment Display N12 | Digital Logic Lab |
+|  | VLSI Design Suite VHDL, Verilog (Software) | Computer Lab |
+|  | SPSS Clementine Server (Software) | Computer Lab |
+
+<
+
+**Disclaimer:** The facts published on this website are for immediate information only and no legal claim can be made for any damage caused by using the content of this site. The College of Technology reserves the right to change the information published on this site at any point of time without prior or further notification. The correct details regarding Posts/Vacancies/Designation/Publications etc. pertaining to the user’s queries are to be provided by C.P.O. office/Concerned Unit Office after its verification.
+
+
+Title: : College of Technology ::.
+
+URL Source: http://www.gbpuat-tech.ac.in/computerEngg.php?id=2
+
+Markdown Content:
+Department of Computer Engineering Faculty
+------------------------------------------
+
+![Image 1](http://www.gbpuat-tech.ac.in/online/images/18.11.2020_1605694052190.jpg)
+
+**[Dr. S. D. Samantaray](http://www.gbpuat-tech.ac.in/complete_profile.php?id=36)**  
+**Web Address** : [Click Here](http://www.gbpuat-tech.ac.in/computerEngg.php?id=2#)  
+**Email-id**: sdsray@gmail.com  
+**Qualification**: PhD  
+**Designation**:Professor & Head  
+**Research Interests**: Knowledge Mining, Artificial Intelligence, NLP, Computational, Linguistics
+
+![Image 2](http://www.gbpuat-tech.ac.in/online/images/10.11.2020_1604990235767.jpg)
+
+**[Dr. Rajeev Singh](http://www.gbpuat-tech.ac.in/complete_profile.php?id=63)**  
+**Web Address** : [Click Here](http://www.gbpuat-tech.ac.in/computerEngg.php?id=2#)  
+**Email-id**: rajeevpec@gmail.com  
+**Qualification**: Ph.D.  
+**Designation**:Professor  
+**Research Interests**: Information System, Computer Networks, Network Security, DBMS
+
+![Image 3](http://www.gbpuat-tech.ac.in/online/images/16.12.2020_1608115862812.jpg)
+
+**[Prof. Bhupesh Kumar Singh](http://www.gbpuat-tech.ac.in/complete_profile.php?id=130)**  
+**Web Address** : [Click Here](http://www.gbpuat-tech.ac.in/computerEngg.php?id=2#)  
+**Email-id**: bksingh.cse@gbpuat-tech.ac.in  
+**Qualification**: M Tech.  
+**Designation**:Associate Professor  
+**Research Interests**: Machine Learning, Formal systems, Theory of Computing
+
+![Image 4](http://www.gbpuat-tech.ac.in/online/images/21.11.2020_1605948380398.jpg)
+
+**[Prof. Jalaj Sharma](http://www.gbpuat-tech.ac.in/complete_profile.php?id=47)**  
+**Web Address** : [Click Here](http://www.gbpuat-tech.ac.in/computerEngg.php?id=2#)  
+**Email-id**: jalajshailaj@gmail.com  
+**Qualification**: M. Tech.  
+**Designation**:Associate Professor  
+**Research Interests**: Computer Engineering
+
+![Image 5](http://www.gbpuat-tech.ac.in/online/images/16.12.2020_1608118074573.jpeg)
+
+**[Dr. Pankaj Mishra](http://www.gbpuat-tech.ac.in/complete_profile.php?id=107)**  
+**Web Address** : [Click Here](http://www.gbpuat-tech.ac.in/computerEngg.php?id=2#)  
+**Email-id**: pkmishra.cs@gmail.com  
+**Qualification**: M.E., Ph.D.  
+**Designation**:Associate Professor  
+**Research Interests**: Wireless Sensor Network
+
+![Image 6](http://www.gbpuat-tech.ac.in/online/images/30.04.2020_1588254382538.jpg)
+
+**[Dr. Chetan Singh Negi](http://www.gbpuat-tech.ac.in/complete_profile.php?id=53)**  
+**Web Address** : [Click Here](http://www.gbpuat-tech.ac.in/computerEngg.php?id=2#)  
+**Email-id**: csnegi.iitkgp@gmail.com  
+**Qualification**: B.Tech., M.Tech., PhD(Pursuing)  
+**Designation**:Associate Professor  
+**Research Interests**: Image Processing, Machine Learning
+
+![Image 7](http://www.gbpuat-tech.ac.in/online/images/16.12.2020_1608128304431.jpeg)
+
+**[Dr. Sunita Jalal](http://www.gbpuat-tech.ac.in/complete_profile.php?id=50)**  
+**Web Address** : [Click Here](http://www.gbpuat-tech.ac.in/computerEngg.php?id=2#)  
+**Email-id**: sunitajalal.cse@gbpuat-tech.ac.in  
+**Qualification**: B.Tech, M.Tech, Ph.D. (pursuing)  
+**Designation**:Associate Professor  
+**Research Interests**: Machine Learning, Data Mining
+
